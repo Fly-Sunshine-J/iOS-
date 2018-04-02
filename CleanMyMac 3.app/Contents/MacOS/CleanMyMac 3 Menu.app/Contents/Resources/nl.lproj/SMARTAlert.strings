@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "4lB-Te-BsN"; */
+"4lB-Te-BsN.title" = "Simulated_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Subtitle_NOTRANS"; ObjectID = "7tY-1m-BWE"; */
+"7tY-1m-BWE.title" = "Subtitle_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Disk_NOTRANS"; ObjectID = "Cqn-2s-S3R"; */
+"Cqn-2s-S3R.title" = "Disk_NOTRANS";
+
+/* Class = "NSMenuItem"; title = "Ignore Forever"; ObjectID = "HAP-RE-b7z"; */
+"HAP-RE-b7z.title" = "Negeer altijd";
+
+/* Class = "NSMenuItem"; title = "Remind in a Week"; ObjectID = "LAd-hA-m53"; */
+"LAd-hA-m53.title" = "Vraag binnen een week";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "Tt0-VP-Smp"; */
+"Tt0-VP-Smp.title" = "Meer info…";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "dVB-od-DGf"; */
+"dVB-od-DGf.title" = "NOTRANS";
+
+/* Class = "NSMenuItem"; title = "Dismiss"; ObjectID = "kLP-4m-mnq"; */
+"kLP-4m-mnq.title" = "Sluit";
+
+/* Class = "NSButtonCell"; title = "Ignore ▾"; ObjectID = "lNH-y8-eZg"; */
+"lNH-y8-eZg.title" = "Negeer ▾";
+
+/* Class = "NSTextFieldCell"; title = "Title_NOTRANS"; ObjectID = "zdn-54-Sur"; */
+"zdn-54-Sur.title" = "Title_NOTRANS";

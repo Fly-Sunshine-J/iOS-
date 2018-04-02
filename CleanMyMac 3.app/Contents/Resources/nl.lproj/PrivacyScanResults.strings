@@ -1,0 +1,161 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "204"; */
+"204.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "213"; */
+"213.title" = "TitleNOTRANS";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "342"; */
+"342.headerCell.title" = "Naam";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "562"; */
+"562.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "585"; */
+"585.title" = "Selecteer";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "691"; */
+"691.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "906"; */
+"906.ibShadowedToolTip" = "Toon in Finder";
+
+/* Class = "NSMenuItem"; title = "Select All Items"; ObjectID = "1194"; */
+"1194.title" = "Selecteer alle items";
+
+/* Class = "NSMenuItem"; title = "Quit to Estimate"; ObjectID = "1195"; */
+"1195.title" = "Stop om te berekenen";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "1196"; */
+"1196.title" = "Toon in Finder";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "1199"; */
+"1199.title" = "Vernieuw";
+
+/* Class = "NSMenuItem"; title = "Launch Application"; ObjectID = "1202"; */
+"1202.title" = "Start programma";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "1629"; */
+"1629.title" = "0 KB";
+
+/* Class = "NSTextFieldCell"; title = "Privacy"; ObjectID = "2383"; */
+"2383.title" = "Privacy";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2385"; */
+"2385.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2518"; */
+"2518.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "2522"; */
+"2522.title" = "0 KB";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2545"; */
+"2545.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2587"; */
+"2587.title" = "Zoek";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2589"; */
+"2589.title" = "Zoek";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "2670"; */
+"2670.title" = "Aflopend";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "2671"; */
+"2671.title" = "Oplopend";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "2673"; */
+"2673.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "2674"; */
+"2674.title" = "Selectie";
+
+/* Class = "NSMenuItem"; title = "Count"; ObjectID = "2675"; */
+"2675.title" = "Aantal";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "2676"; */
+"2676.title" = "Sorteer op naam ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2679"; */
+"2679.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "2707"; */
+"2707.title" = "Laden…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "4ce-Ww-RXC"; */
+"4ce-Ww-RXC.ibShadowedToolTip" = "Toon in Finder";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "8in-5E-bjh"; */
+"8in-5E-bjh.title" = "– Altijd";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "BQ8-vl-zdm"; */
+"BQ8-vl-zdm.ibShadowedToolTip" = "Toon in Finder";
+
+/* Class = "NSTextFieldCell"; title = "DescriptionNOTRANS"; ObjectID = "Fbe-2k-YLc"; */
+"Fbe-2k-YLc.title" = "DescriptionNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "Ila-dG-eVZ"; */
+"Ila-dG-eVZ.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "KeX-IB-ccV"; */
+"KeX-IB-ccV.title" = "– Altijd";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "Qkd-7q-qWY"; */
+"Qkd-7q-qWY.ibShadowedToolTip" = "Toon in Finder";
+
+/* Class = "NSButtonCell"; title = "Quit Skype to Estimate"; ObjectID = "QoH-XH-88z"; */
+"QoH-XH-88z.title" = "Stop Skype om te berekenen";
+
+/* Class = "NSButtonCell"; title = "Last month"; ObjectID = "Ttf-Sc-hMq"; */
+"Ttf-Sc-hMq.title" = "Laatste maand";
+
+/* Class = "NSTextFieldCell"; title = "items"; ObjectID = "VVw-kI-F57"; */
+"VVw-kI-F57.title" = "items";
+
+/* Class = "NSTextFieldCell"; title = "Time range to clean:"; ObjectID = "XJM-2A-tty"; */
+"XJM-2A-tty.title" = "Op te ruimen periode:";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "Xbo-pX-qQO"; */
+"Xbo-pX-qQO.title" = "0 KB";
+
+/* Class = "NSMenuItem"; title = "Everything"; ObjectID = "Yhp-FS-Atf"; */
+"Yhp-FS-Atf.title" = "Alles";
+
+/* Class = "NSMenuItem"; title = "Last two hours"; ObjectID = "cBe-Kj-GMb"; */
+"cBe-Kj-GMb.title" = "Laatste twee uur";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "e6W-vU-EKx"; */
+"e6W-vU-EKx.title" = "– Altijd";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "ezh-XB-2PU"; */
+"ezh-XB-2PU.title" = "0 KB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "fbO-TF-gzG"; */
+"fbO-TF-gzG.ibShadowedToolTip" = "Toon info";
+
+/* Class = "NSMenuItem"; title = "Last 24 hours"; ObjectID = "gvB-jY-cxl"; */
+"gvB-jY-cxl.title" = "Laatste 24 uur";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "hcn-2F-RuP"; */
+"hcn-2F-RuP.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "iVI-IY-0uC"; */
+"iVI-IY-0uC.title" = "– Altijd";
+
+/* Class = "NSMenuItem"; title = "Last hour"; ObjectID = "ks9-Z3-t71"; */
+"ks9-Z3-t71.title" = "Laatste uur";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "nXX-Gq-syi"; */
+"nXX-Gq-syi.title" = "0 KB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "oMV-e1-y6I"; */
+"oMV-e1-y6I.ibShadowedToolTip" = "Toon info";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "p8l-7q-K3M"; */
+"p8l-7q-K3M.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "wty-V0-26R"; */
+"wty-V0-26R.title" = "– Altijd";
+
+/* Class = "NSMenuItem"; title = "Last week"; ObjectID = "z5z-SO-DNB"; */
+"z5z-SO-DNB.title" = "Laatste week";

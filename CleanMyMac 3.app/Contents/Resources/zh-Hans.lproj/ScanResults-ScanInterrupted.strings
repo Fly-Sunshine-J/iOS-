@@ -1,0 +1,5 @@
+/* Class = "NSTextFieldCell"; title = "Perform a new scan to analyze this section."; ObjectID = "gPS-0T-T4N"; */
+"gPS-0T-T4N.title" = "执行新扫描来分析这部分。";
+
+/* Class = "NSTextFieldCell"; title = "Not Scanned"; ObjectID = "qby-xG-Xai"; */
+"qby-xG-Xai.title" = "没有扫描";

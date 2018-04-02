@@ -1,0 +1,122 @@
+/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "Large and old files view"; ObjectID = "197"; */
+"197.ibExternalAccessibilityDescription" = "大型和旧文件视图";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "201"; */
+"201.headerCell.title" = "名称";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "497"; */
+"497.ibShadowedToolTip" = "在 Finder 中显示";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "502"; */
+"502.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "503"; */
+"503.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "565"; */
+"565.title" = "999 MB";
+
+/* Class = "NSMenu"; title = "Sort"; ObjectID = "582"; */
+"582.title" = "排序";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "583"; */
+"583.title" = "降序";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "584"; */
+"584.title" = "升序";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "586"; */
+"586.title" = "名称";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "588"; */
+"588.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "589"; */
+"589.title" = "大小";
+
+/* Class = "NSMenuItem"; title = "Access Date"; ObjectID = "590"; */
+"590.title" = "访问日期";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "596"; */
+"596.title" = "种类";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "772"; */
+"772.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "Reveal In Finder"; ObjectID = "774"; */
+"774.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "775"; */
+"775.title" = "快速查看";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Quick Look"; ObjectID = "1063"; */
+"1063.ibShadowedToolTip" = "快速查看";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "1289"; */
+"1289.title" = "添加到忽略列表";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1291"; */
+"1291.title" = "从忽略列表中移除";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1843"; */
+"1843.title" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1Us-W3-6cs"; */
+"1Us-W3-6cs.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Access Date"; ObjectID = "2fZ-DX-TVG"; */
+"2fZ-DX-TVG.title" = "访问日期";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "33R-rv-eiW"; */
+"33R-rv-eiW.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "3xR-zS-tSy"; */
+"3xR-zS-tSy.title" = "999 MB";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "41C-mw-ccc"; */
+"41C-mw-ccc.title" = "种类";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "4Lv-dR-nHK"; */
+"4Lv-dR-nHK.title" = "999";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Quick Look"; ObjectID = "ASq-Bx-ysr"; */
+"ASq-Bx-ysr.ibShadowedToolTip" = "快速查看";
+
+/* Class = "NSButtonCell"; title = "trololo@macpaw.com ▾"; ObjectID = "AU8-Xa-bbY"; */
+"AU8-Xa-bbY.title" = "trololo@macpaw.com ▾";
+
+/* Class = "NSButtonCell"; title = "Sort by Name ▾"; ObjectID = "Kyo-mj-jbe"; */
+"Kyo-mj-jbe.title" = "按名称排序 ▾";
+
+/* Class = "NSMenuItem"; title = "Reveal in Mail"; ObjectID = "L5x-pk-gaB"; */
+"L5x-pk-gaB.title" = "在邮件中显示";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "U3e-l8-fja"; */
+"U3e-l8-fja.title" = "IgnoreNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "WY5-xB-3RW"; */
+"WY5-xB-3RW.title" = "添加到忽略列表";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "ZLl-Gk-pH2"; */
+"ZLl-Gk-pH2.title" = "TextNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "gSw-Ce-Zsv"; */
+"gSw-Ce-Zsv.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "All of your email attachments get stored on your Mac, still remaining accessible via Mail even if removed. CleanMyMac offers to clean recoverable attachments, but keeps those you have already modified."; ObjectID = "hHS-Kn-QTM"; */
+"hHS-Kn-QTM.title" = "您的所有电子邮件附件都储存在 Mac 上，即使被移除也可以通过邮件来访问。CleanMyMac 可以清理可恢复的附件，但会保留已经修改的附件。";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "ila-ax-JxX"; */
+"ila-ax-JxX.title" = "TitleNOTRANS";
+
+/* Class = "NSMenu"; title = "Group"; ObjectID = "ju3-YK-a68"; */
+"ju3-YK-a68.title" = "群组";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qXF-vY-o9j"; */
+"qXF-vY-o9j.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "sZa-Xz-SU7"; */
+"sZa-Xz-SU7.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "vJ6-b7-gDQ"; */
+"vJ6-b7-gDQ.ibShadowedToolTip" = "在 Finder 中显示";

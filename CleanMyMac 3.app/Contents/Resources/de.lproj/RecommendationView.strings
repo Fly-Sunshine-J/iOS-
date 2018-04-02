@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "Try Now"; ObjectID = "Ctz-qB-c57"; */
+"Ctz-qB-c57.title" = "Jetzt testen";
+
+/* Class = "NSTextFieldCell"; title = "Get Rid of Duplicate Files"; ObjectID = "V8N-QL-9H7"; */
+"V8N-QL-9H7.title" = "Werden Sie doppelte Dateien los";
+
+/* Class = "NSTextFieldCell"; title = "Delete duplicates with Gemini to free up even more space."; ObjectID = "VTj-Q1-sH5"; */
+"VTj-Q1-sH5.title" = "Löschen Sie Ihre Duplikate mit Gemini für noch mehr Speicherplatz.";
+
+/* Class = "NSTextFieldCell"; title = "Recover more space by reviewing remaining items."; ObjectID = "XEC-6r-Z02"; */
+"XEC-6r-Z02.title" = "Geben Sie mehr Speicher frei. Prüfen Sie weitere Elemente.";
+
+/* Class = "NSTextFieldCell"; title = "Recover more space by reviewing remaining items."; ObjectID = "bKQ-YI-BqI"; */
+"bKQ-YI-BqI.title" = "Geben Sie mehr Speicher frei. Prüfen Sie weitere Elemente.";
+
+/* Class = "NSButtonCell"; title = "Review Items"; ObjectID = "cqk-hV-Ple"; */
+"cqk-hV-Ple.title" = "Elemente prüfen";
+
+/* Class = "NSButtonCell"; title = "Review Items"; ObjectID = "fnU-Nc-Y4O"; */
+"fnU-Nc-Y4O.title" = "Elemente prüfen";

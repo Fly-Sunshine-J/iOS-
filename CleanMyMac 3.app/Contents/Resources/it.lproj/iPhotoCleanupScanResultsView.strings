@@ -1,0 +1,38 @@
+/* Class = "NSMenuItem"; title = "Events"; ObjectID = "785"; */
+"785.title" = "Eventi";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "789"; */
+"789.title" = "Data";
+
+/* Class = "NSMenuItem"; title = "Modifiers"; ObjectID = "791"; */
+"791.title" = "Modificatori";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "905"; */
+"905.title" = "Aggiungi alla Lista Ignora";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "911"; */
+"911.title" = "Rimuovi dalla Lista Ignora";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "997"; */
+"997.title" = "Ricerca";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4zI-Jj-c9Y"; */
+"4zI-Jj-c9Y.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "Bd4-3G-IYs"; */
+"Bd4-3G-IYs.title" = "999";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "KTO-HR-f3g"; */
+"KTO-HR-f3g.title" = "Deseleziona tutti";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "NUg-MO-tMJ"; */
+"NUg-MO-tMJ.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "XTH-Rs-YQY"; */
+"XTH-Rs-YQY.title" = "TextNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "j0v-9C-KrN"; */
+"j0v-9C-KrN.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "pWo-sV-fxI"; */
+"pWo-sV-fxI.title" = "Aggiungi alla Lista Ignora";

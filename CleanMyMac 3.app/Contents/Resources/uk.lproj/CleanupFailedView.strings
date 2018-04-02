@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "Review cleanup log to identify cleanup errors and try again."; ObjectID = "53y-aW-iSL"; */
+"53y-aW-iSL.title" = "Перегляньте лог видалення, щоб виявити помилки та спробуйте ще раз.";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "GLV-QN-4uL"; */
+"GLV-QN-4uL.title" = "Переглянути лог";
+
+/* Class = "NSTextFieldCell"; title = "Cleanup Failed"; ObjectID = "cdZ-vo-SRS"; */
+"cdZ-vo-SRS.title" = "Невдале очищення";

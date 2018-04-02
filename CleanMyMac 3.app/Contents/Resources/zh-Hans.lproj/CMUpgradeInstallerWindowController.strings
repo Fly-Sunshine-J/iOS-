@@ -1,0 +1,5 @@
+/* Class = "NSWindow"; title = "Installer"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "安装器";
+
+/* Class = "NSTextFieldCell"; title = "Downloading..."; ObjectID = "dzV-sz-60d"; */
+"dzV-sz-60d.title" = "正在下载 ...";

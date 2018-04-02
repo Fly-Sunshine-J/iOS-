@@ -1,0 +1,335 @@
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "471"; */
+"471.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "472"; */
+"472.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "475"; */
+"475.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac"; ObjectID = "476"; */
+"476.title" = "CleanMyMac";
+
+/* Class = "NSMenu"; title = "CleanMyMac"; ObjectID = "477"; */
+"477.title" = "CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "License Agreement…"; ObjectID = "478"; */
+"478.title" = "许可证协议...";
+
+/* Class = "NSMenuItem"; title = "Activate…"; ObjectID = "479"; */
+"479.title" = "激活...";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "482"; */
+"482.title" = "检查更新";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "484"; */
+"484.title" = "显示全部";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "486"; */
+"486.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Quit CleanMyMac"; ObjectID = "489"; */
+"489.title" = "退出 CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "Hide CleanMyMac"; ObjectID = "490"; */
+"490.title" = "隐藏 CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "491"; */
+"491.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "492"; */
+"492.title" = "偏好设置...";
+
+/* Class = "NSMenuItem"; title = "About CleanMyMac"; ObjectID = "493"; */
+"493.title" = "关于 CleanMyMac";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "494"; */
+"494.title" = "服务";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "495"; */
+"495.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Provide Feedback…"; ObjectID = "500"; */
+"500.title" = "提供反馈...";
+
+/* Class = "NSMenuItem"; title = "Online Manual…"; ObjectID = "501"; */
+"501.title" = "在线手册...";
+
+/* Class = "NSMenuItem"; title = "Support Center…"; ObjectID = "503"; */
+"503.title" = "支持中心...";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac Help"; ObjectID = "505"; */
+"505.title" = "CleanMyMac 帮助";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "544"; */
+"544.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "545"; */
+"545.title" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "546"; */
+"546.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "548"; */
+"548.title" = "缩放";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "552"; */
+"552.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "576"; */
+"576.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "577"; */
+"577.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "578"; */
+"578.title" = "撤消";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "579"; */
+"579.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "581"; */
+"581.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "582"; */
+"582.title" = "拷贝";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "583"; */
+"583.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "584"; */
+"584.title" = "粘贴并匹配样式";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "585"; */
+"585.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "586"; */
+"586.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "588"; */
+"588.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "589"; */
+"589.title" = "拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "590"; */
+"590.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "591"; */
+"591.title" = "转换";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "592"; */
+"592.title" = "语音";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "593"; */
+"593.title" = "语音";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "594"; */
+"594.title" = "开始朗诵";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "595"; */
+"595.title" = "停止朗诵";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "596"; */
+"596.title" = "转换";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "597"; */
+"597.title" = "变为大写";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "598"; */
+"598.title" = "变为小写";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "599"; */
+"599.title" = "首字母大写";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "600"; */
+"600.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "601"; */
+"601.title" = "显示替换";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "603"; */
+"603.title" = "智能拷贝/粘贴";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "604"; */
+"604.title" = "智能引号";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "605"; */
+"605.title" = "智能破折号";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "606"; */
+"606.title" = "智能链接";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "607"; */
+"607.title" = "数据检测器";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "608"; */
+"608.title" = "文本替换";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "609"; */
+"609.title" = "检查拼写";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "610"; */
+"610.title" = "显示拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "611"; */
+"611.title" = "立即检查文稿";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "613"; */
+"613.title" = "键入时检查拼写";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "614"; */
+"614.title" = "检查拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "615"; */
+"615.title" = "自动纠正拼写";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "616"; */
+"616.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "617"; */
+"617.title" = "查找...";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "618"; */
+"618.title" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "619"; */
+"619.title" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "620"; */
+"620.title" = "查找所选内容";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "621"; */
+"621.title" = "跳到所选内容";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "654"; */
+"654.title" = "文件";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "655"; */
+"655.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "660"; */
+"660.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "690"; */
+"690.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "694"; */
+"694.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "697"; */
+"697.title" = "添加到忽略列表";
+
+/* Class = "NSMenuItem"; title = "Remove From Ignore List"; ObjectID = "708"; */
+"708.title" = "从忽略列表中移除";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "717"; */
+"717.title" = "快速查看";
+
+/* Class = "NSMenuItem"; title = "Add Folder…"; ObjectID = "779"; */
+"779.title" = "添加文件夹…";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "781"; */
+"781.title" = "启动";
+
+/* Class = "NSMenuItem"; title = "Back"; ObjectID = "783"; */
+"783.title" = "返回";
+
+/* Class = "NSMenuItem"; title = "Smart Cleanup"; ObjectID = "786"; */
+"786.title" = "智能清理";
+
+/* Class = "NSMenuItem"; title = "System Junk"; ObjectID = "787"; */
+"787.title" = "系统垃圾";
+
+/* Class = "NSMenuItem"; title = "Large & Old Files"; ObjectID = "788"; */
+"788.title" = "大型和旧文件";
+
+/* Class = "NSMenuItem"; title = "iTunes Junk"; ObjectID = "789"; */
+"789.title" = "iTunes 垃圾";
+
+/* Class = "NSMenuItem"; title = "Trash Bins"; ObjectID = "790"; */
+"790.title" = "废纸篓";
+
+/* Class = "NSMenuItem"; title = "Uninstaller"; ObjectID = "791"; */
+"791.title" = "卸载器";
+
+/* Class = "NSMenuItem"; title = "Extensions"; ObjectID = "792"; */
+"792.title" = "扩展";
+
+/* Class = "NSMenuItem"; title = "Shredder"; ObjectID = "793"; */
+"793.title" = "碎纸机";
+
+/* Class = "NSMenuItem"; title = "Action"; ObjectID = "794"; */
+"794.title" = "操作";
+
+/* Class = "NSMenu"; title = "Action"; ObjectID = "795"; */
+"795.title" = "操作";
+
+/* Class = "NSMenuItem"; title = "Scan"; ObjectID = "796"; */
+"796.title" = "扫描";
+
+/* Class = "NSMenuItem"; title = "Authenticate…"; ObjectID = "797"; */
+"797.title" = "进行验证...";
+
+/* Class = "NSMenuItem"; title = "Tell a Friend…"; ObjectID = "820"; */
+"820.title" = "告诉朋友";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "5Vf-K2-vSq"; */
+"5Vf-K2-vSq.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Retrieve License"; ObjectID = "6lf-xA-LM9"; */
+"6lf-xA-LM9.title" = "恢复许可证";
+
+/* Class = "NSMenuItem"; title = "What’s New"; ObjectID = "9WU-MU-mgP"; */
+"9WU-MU-mgP.title" = "最近更新";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "9gV-Gh-EOE"; */
+"9gV-Gh-EOE.title" = "重新扫描";
+
+/* Class = "NSMenuItem"; title = "Privacy"; ObjectID = "DR3-e3-fwp"; */
+"DR3-e3-fwp.title" = "隐私";
+
+/* Class = "NSMenuItem"; title = "iPhoto Junk"; ObjectID = "DfP-YI-XdP"; */
+"DfP-YI-XdP.title" = "iPhoto 垃圾";
+
+/* Class = "NSMenuItem"; title = "Show File Paths"; ObjectID = "FjX-R7-03y"; */
+"FjX-R7-03y.title" = "显示文件路径";
+
+/* Class = "NSMenu"; title = "Activate"; ObjectID = "OC9-GN-9Hm"; */
+"OC9-GN-9Hm.title" = "激活";
+
+/* Class = "NSMenuItem"; title = "Buy a License"; ObjectID = "PfL-SC-sMo"; */
+"PfL-SC-sMo.title" = "购买许可证";
+
+/* Class = "NSMenuItem"; title = "Mail Attachments"; ObjectID = "Rq7-4D-VWi"; */
+"Rq7-4D-VWi.title" = "邮件附件";
+
+/* Class = "NSMenuItem"; title = "What's New in CleanMyMac 3"; ObjectID = "aVM-ZE-hIW"; */
+"aVM-ZE-hIW.title" = "CleanMyMac 3 新增特性";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "bGp-VV-ICJ"; */
+"bGp-VV-ICJ.title" = "进入全屏幕";
+
+/* Class = "NSMenuItem"; title = "Enter Activation Number…"; ObjectID = "gA3-8D-UoI"; */
+"gA3-8D-UoI.title" = "输入激活号码…";
+
+/* Class = "NSMenuItem"; title = "Dashboard"; ObjectID = "gaV-Lt-XCl"; */
+"gaV-Lt-XCl.title" = "Dashboard";
+
+/* Class = "NSMenuItem"; title = "Maintenance"; ObjectID = "hLQ-7z-i24"; */
+"hLQ-7z-i24.title" = "维护";
+
+/* Class = "NSMenuItem"; title = "Upgrade"; ObjectID = "iZe-CX-KDB"; */
+"iZe-CX-KDB.title" = "升级";
+
+/* Class = "NSMenuItem"; title = "Ignore List"; ObjectID = "kwO-rM-Qef"; */
+"kwO-rM-Qef.title" = "忽略列表";
+
+/* Class = "NSMenuItem"; title = "More MacPaw Products..."; ObjectID = "v0D-3Y-V0k"; */
+"v0D-3Y-V0k.title" = "更多 MacPaw 产品…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "w2Z-Lk-CSQ"; */
+"w2Z-Lk-CSQ.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "y6R-K2-bEv"; */
+"y6R-K2-bEv.title" = "激活";

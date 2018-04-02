@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Large Size"; ObjectID = "64n-2V-GpH"; */
+"64n-2V-GpH.title" = "Gran tamaño";
+
+/* Class = "NSMenuItem"; title = "Every week"; ObjectID = "87b-9b-OE2"; */
+"87b-9b-OE2.title" = "Cada semana";
+
+/* Class = "NSTextFieldCell"; title = "Scheduled Regular Cleanup"; ObjectID = "CNA-dz-PBp"; */
+"CNA-dz-PBp.title" = "Limpieza Regular programada";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "SC8-mt-Fdr"; */
+"SC8-mt-Fdr.title" = "Nunca";
+
+/* Class = "NSButtonCell"; title = "Share Result"; ObjectID = "Z2G-JX-DtR"; */
+"Z2G-JX-DtR.title" = "Compartir el resultado";
+
+/* Class = "NSTextFieldCell"; title = "Retina, Mid 2012"; ObjectID = "abw-BD-2Vd"; */
+"abw-BD-2Vd.title" = "Retina, Mid 2012";
+
+/* Class = "NSTextFieldCell"; title = "Cleaned since first use"; ObjectID = "chr-VA-aAN"; */
+"chr-VA-aAN.title" = "limpiado desde el primer uso";
+
+/* Class = "NSMenuItem"; title = "Every two weeks"; ObjectID = "cxW-do-YnV"; */
+"cxW-do-YnV.title" = "Cada dos semanas";
+
+/* Class = "NSTextFieldCell"; title = "Mac Book Pro"; ObjectID = "m1v-yn-Rq1"; */
+"m1v-yn-Rq1.title" = "Mac Book Pro";
+
+/* Class = "NSMenuItem"; title = "Every month"; ObjectID = "vpN-gB-6wS"; */
+"vpN-gB-6wS.title" = "Cada mes";

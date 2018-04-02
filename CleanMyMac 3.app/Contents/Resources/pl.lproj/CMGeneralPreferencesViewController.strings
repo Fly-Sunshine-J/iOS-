@@ -1,0 +1,56 @@
+/* Class = "NSTextFieldCell"; title = "Warning Dialogs:"; ObjectID = "17n-J0-j5G"; */
+"17n-J0-j5G.title" = "Ostrzeżenia:";
+
+/* Class = "NSButtonCell"; title = "Disable for better performance"; ObjectID = "9pe-1f-cUu"; */
+"9pe-1f-cUu.title" = "Wyłącz dla lepszej wydajności";
+
+/* Class = "NSTextFieldCell"; title = "Don't remove the following languages from your system or applications:"; ObjectID = "A2K-KS-ApB"; */
+"A2K-KS-ApB.title" = "Języki z tej listy będą ignorowane podczas czyszczenia:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BE6-rL-U61"; */
+"BE6-rL-U61.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Play sounds for main CleanMyMac 3 actions"; ObjectID = "CDF-fI-Ys0"; */
+"CDF-fI-Ys0.title" = "Odtwarzaj dźwięki dla głównych czynności CleanMyMac 3";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Getting Started"; ObjectID = "KRK-mf-ahf"; */
+"KRK-mf-ahf.ibShadowedToolTip" = "Pierwsze kroki";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyMac’s breaking news while scanning"; ObjectID = "O6r-kS-AkV"; */
+"O6r-kS-AkV.title" = "Pobieraj aktualności CleanMyMac podczas skanowania";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add item to Exclude List"; ObjectID = "XiP-0U-17c"; */
+"XiP-0U-17c.ibShadowedToolTip" = "Dodaj rzecz do Listy ignorowania";
+
+/* Class = "NSTextFieldCell"; title = "Sounds:"; ObjectID = "YYF-ht-QQK"; */
+"YYF-ht-QQK.title" = "Dźwięki:";
+
+/* Class = "NSTextFieldCell"; title = "Halloween:"; ObjectID = "Yyr-zu-ZVF"; */
+"Yyr-zu-ZVF.title" = "Halloween:";
+
+/* Class = "NSTextFieldCell"; title = "Announcements:"; ObjectID = "aR1-9p-y5t"; */
+"aR1-9p-y5t.title" = "Ogłoszenia:";
+
+/* Class = "NSButtonCell"; title = "Get on the Mac App Store"; ObjectID = "dpI-ox-ZqC"; */
+"dpI-ox-ZqC.title" = "Pobierz w Mac App Store";
+
+/* Class = "NSButtonCell"; title = "Reset All Warnings"; ObjectID = "dyA-YO-4kV"; */
+"dyA-YO-4kV.title" = "Resetuj wszystkie";
+
+/* Class = "NSTextFieldCell"; title = "Animations:"; ObjectID = "fxE-Qd-Z5X"; */
+"fxE-Qd-Z5X.title" = "Animacje:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "ikE-rL-2TE"; */
+"ikE-rL-2TE.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected item from Exclude List"; ObjectID = "leb-3d-0GI"; */
+"leb-3d-0GI.ibShadowedToolTip" = "Usuń zaznaczoną rzecz z Listy ignorowania";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyDrive 2 is a free utility by MacPaw to remove junk from external HDDs and flash drives automatically."; ObjectID = "ocN-SS-TqP"; */
+"ocN-SS-TqP.title" = "CleanMyDrive 2 - to darmowe narzędzie do automatycznego usuwania śmieci z zewnętrznych dysków i napędów flash USB.";
+
+/* Class = "NSTextFieldCell"; title = "External Drives:"; ObjectID = "qk6-ih-xYA"; */
+"qk6-ih-xYA.title" = "Dyski zewnętrzne:";
+
+/* Class = "NSButtonCell"; title = "Enable holiday theme"; ObjectID = "sp9-ul-bSd"; */
+"sp9-ul-bSd.title" = "Włącz motyw świąteczny";

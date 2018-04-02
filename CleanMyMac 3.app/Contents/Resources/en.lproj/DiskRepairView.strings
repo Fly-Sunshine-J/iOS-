@@ -1,0 +1,12 @@
+﻿
+/* Class = "NSButtonCell"; title = "View Tasks"; ObjectID = "CLx-Bw-lmh"; */
+"CLx-Bw-lmh.title" = "View Log";
+
+/* Class = "NSTextFieldCell"; title = "Follow these steps to repair your startup disk:\n• Reboot the Mac and hold down Command+R to boot into Recovery.\n• Select “Disk Utility” at the macOS Utilities screen.\n• Select the startup volume from the left menu and click on the “First Aid” tab.\n• Click \"Repair\" to repair the startup volume."; ObjectID = "Ikn-AP-FAS"; */
+"Ikn-AP-FAS.title" = "Follow these steps to repair your startup disk:\n1. Reboot the Mac and hold down Command+R to boot into Recovery;\n2. Select “Disk Utility” at the macOS Utilities screen;\n3. Select the startup volume from the left menu and click on the “First Aid” tab;\n4. Click \"Repair\" to repair the startup volume.";
+
+/* Class = "NSTextFieldCell"; title = "Disk needs repair!"; ObjectID = "Rch-cN-Vmm"; */
+"Rch-cN-Vmm.title" = "Disk needs repair!";
+
+/* Class = "NSTextFieldCell"; title = "Return to the list of maintenance procedures to run other tasks."; ObjectID = "VAc-Ri-MB2"; */
+"VAc-Ri-MB2.title" = "Review cleanup log to identify cleanup errors and try again.";

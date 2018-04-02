@@ -1,0 +1,161 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "71"; */
+"71.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "75"; */
+"75.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "92"; */
+"92.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "306"; */
+"306.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "329"; */
+"329.title" = "0 KB";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "787"; */
+"787.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1075"; */
+"1075.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1076"; */
+"1076.title" = "999 MB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1094"; */
+"1094.ibShadowedToolTip" = "Im Finder anzeigen";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "1999"; */
+"1999.title" = "Laden …";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all related items for removal, but keeps the main binary"; ObjectID = "3257"; */
+"3257.ibShadowedToolTip" = "Markiert alle Elemente bis auf den Programmcode zum Entfernen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all application items for complete and correct uninstallation"; ObjectID = "3258"; */
+"3258.ibShadowedToolTip" = "Wählt alle Programmdateien für eine vollständige Deinstallation aus";
+
+/* Class = "NSButtonCell"; title = "Complete Uninstallation"; ObjectID = "3265"; */
+"3265.title" = "Vollständige Deinstallation";
+
+/* Class = "NSButtonCell"; title = "Application Reset"; ObjectID = "3267"; */
+"3267.title" = "Programm-Reset";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check for all files"; ObjectID = "3520"; */
+"3520.ibShadowedToolTip" = "Für alle Dateien auswählen";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "3524"; */
+"3524.title" = "Alles auswählen";
+
+/* Class = "NSMenuItem"; title = "Uninstall"; ObjectID = "3579"; */
+"3579.title" = "Deinstallieren";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "3580"; */
+"3580.title" = "Zurücksetzen";
+
+/* Class = "NSMenuItem"; title = "Keep"; ObjectID = "3581"; */
+"3581.title" = "Behalten";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "3583"; */
+"3583.title" = "Öffnen";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "3584"; */
+"3584.title" = "Im Finder anzeigen";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "4412"; */
+"4412.title" = "Zur Ignore-Liste hinzufügen";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selector:"; ObjectID = "4737"; */
+"4737.title" = "Aktionsauswahl:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "5076"; */
+"5076.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "5119"; */
+"5119.title" = "Nachsehen";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "5263"; */
+"5263.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "5268"; */
+"5268.title" = "Auswahl";
+
+/* Class = "NSMenuItem"; title = "Last Launch Date"; ObjectID = "5269"; */
+"5269.title" = "Zuletzt geöffnet";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "5270"; */
+"5270.title" = "Größe";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "5271"; */
+"5271.title" = "Absteigend";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "5272"; */
+"5272.title" = "Aufsteigend";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "5274"; */
+"5274.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5275"; */
+"5275.title" = "Art";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "5276"; */
+"5276.title" = "Sortieren nach Name ▾";
+
+/* Class = "NSTextFieldCell"; title = "System Application"; ObjectID = "42r-Vz-uxj"; */
+"42r-Vz-uxj.title" = "Systemprogramm";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4lF-hP-43S"; */
+"4lF-hP-43S.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "79T-U8-Eha"; */
+"79T-U8-Eha.title" = "Nachsehen";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "8AA-pl-4PA"; */
+"8AA-pl-4PA.title" = "Alle";
+
+/* Class = "NSMenuItem"; title = "Selected"; ObjectID = "8ln-IB-vvk"; */
+"8ln-IB-vvk.title" = "Ausgewählt";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported"; ObjectID = "DE0-RM-1ED"; */
+"DE0-RM-1ED.title" = "Nicht unterstützt";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "DgL-Yk-pgt"; */
+"DgL-Yk-pgt.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "F5x-sv-rOI"; */
+"F5x-sv-rOI.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "all ▾"; ObjectID = "ILn-0e-VyG"; */
+"ILn-0e-VyG.title" = "alle ▾";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "LbF-Dg-6J6"; */
+"LbF-Dg-6J6.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "PhK-1M-FwU"; */
+"PhK-1M-FwU.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "SjQ-DL-Gkm"; */
+"SjQ-DL-Gkm.title" = "0 KB";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "TxO-7j-cAM"; */
+"TxO-7j-cAM.title" = "Im Finder anzeigen";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "WoL-Mi-YcF"; */
+"WoL-Mi-YcF.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "cpK-M8-P7n"; */
+"cpK-M8-P7n.title" = "Laden …";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "fha-V7-QPS"; */
+"fha-V7-QPS.title" = "Neu scannen";
+
+/* Class = "NSMenu"; title = "Items Type"; ObjectID = "ogY-lg-ebR"; */
+"ogY-lg-ebR.title" = "Eintragstyp";
+
+/* Class = "NSMenuItem"; title = "Unsupported"; ObjectID = "vl0-RB-1MJ"; */
+"vl0-RB-1MJ.title" = "Nicht unterstützt";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "xYZ-eM-Z8g"; */
+"xYZ-eM-Z8g.title" = "Auswählen";

@@ -1,0 +1,45 @@
+﻿
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "245"; */
+"245.title" = "Preferences";
+
+/* Class = "NSToolbarItem"; label = "Smart Cleanup"; ObjectID = "253"; */
+"253.label" = "Smart Cleanup";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Smart Cleanup"; ObjectID = "253"; */
+"253.paletteLabel" = "Smart Cleanup";
+
+/* Class = "NSToolbarItem"; label = "CleanMyMac 3 Menu"; ObjectID = "254"; */
+"254.label" = "CleanMyMac 3 Menu";
+
+/* Class = "NSToolbarItem"; paletteLabel = "CleanMyMac 3 Menu"; ObjectID = "254"; */
+"254.paletteLabel" = "CleanMyMac 3 Menu";
+
+/* Class = "NSToolbarItem"; label = "Updates"; ObjectID = "255"; */
+"255.label" = "Updates";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Updates"; ObjectID = "255"; */
+"255.paletteLabel" = "Updates";
+
+/* Class = "NSToolbarItem"; label = "Scheduler"; ObjectID = "256"; */
+"256.label" = "Scheduler";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Scheduler"; ObjectID = "256"; */
+"256.paletteLabel" = "Scheduler";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "257"; */
+"257.label" = "General";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "257"; */
+"257.paletteLabel" = "General";
+
+/* Class = "NSToolbarItem"; label = "Ignore List"; ObjectID = "2275"; */
+"2275.label" = "Ignore List";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Ignore List"; ObjectID = "2275"; */
+"2275.paletteLabel" = "Ignore List";
+
+/* Class = "NSToolbarItem"; label = "Privacy"; ObjectID = "vAv-qa-vXs"; */
+"vAv-qa-vXs.label" = "Privacy";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Privacy"; ObjectID = "vAv-qa-vXs"; */
+"vAv-qa-vXs.paletteLabel" = "Privacy";

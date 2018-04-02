@@ -1,0 +1,134 @@
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "37"; */
+"37.title" = "TitleNOTRANS";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "63"; */
+"63.headerCell.title" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89"; */
+"89.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "92"; */
+"92.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "229"; */
+"229.title" = "Auswählen";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "231"; */
+"231.title" = "Zur Ignore-Liste hinzufügen";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "232"; */
+"232.title" = "Im Finder anzeigen";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "234"; */
+"234.title" = "Vorschau";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "256"; */
+"256.title" = "999";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "458"; */
+"458.title" = "Auswahl aufheben";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "544"; */
+"544.ibShadowedToolTip" = "Im Finder anzeigen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1227"; */
+"1227.ibShadowedToolTip" = "Im Finder anzeigen";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1231"; */
+"1231.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1232"; */
+"1232.title" = "999 MB";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "1253"; */
+"1253.title" = "IgnoreNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1278"; */
+"1278.title" = "Aus Ignore-Liste entfernen";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1292"; */
+"1292.title" = "999 MB";
+
+/* Class = "NSTextFieldCell"; title = "PathNOTRANS"; ObjectID = "1332"; */
+"1332.title" = "PathNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1684"; */
+"1684.title" = "Nachsehen";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "1686"; */
+"1686.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1687"; */
+"1687.title" = "Nachsehen";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1725"; */
+"1725.title" = "Sortieren nach Name ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1726"; */
+"1726.title" = "Größe";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1727"; */
+"1727.title" = "Auswahl";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1728"; */
+"1728.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1730"; */
+"1730.title" = "Aufsteigend";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1731"; */
+"1731.title" = "Absteigend";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1733"; */
+"1733.title" = "Sortieren nach Name ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1734"; */
+"1734.title" = "Größe";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1735"; */
+"1735.title" = "Auswahl";
+
+/* Class = "NSMenuItem"; title = "Last Clean"; ObjectID = "1736"; */
+"1736.title" = "Letzte Bereinigung";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1737"; */
+"1737.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1739"; */
+"1739.title" = "Aufsteigend";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1740"; */
+"1740.title" = "Absteigend";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1742"; */
+"1742.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1756"; */
+"1756.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4QU-5l-rDg"; */
+"4QU-5l-rDg.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Application"; ObjectID = "DK9-BJ-sRC"; */
+"DK9-BJ-sRC.title" = "Programm";
+
+/* Class = "NSMenuItem"; title = "Open with App"; ObjectID = "EtT-Bg-9VD"; */
+"EtT-Bg-9VD.title" = "Open with App";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "GOp-mK-vpl"; */
+"GOp-mK-vpl.title" = "999 MB";
+
+/* Class = "NSTextFieldCell"; title = "All of your email attachments get stored on your Mac, still remaining accessible via Mail even if removed. CleanMyMac offers to clean recoverable attachments, but keeps those you have already modified."; ObjectID = "fLH-9e-so4"; */
+"fLH-9e-so4.title" = "Alle empfangenen E-Mail-Anhänge werden auf Ihrem Mac gesichert, und sind weiterhin verfügbar, selbst wenn Mail gelöscht wird. CleanMyMac kann all diejenigen Anhänge löschen, die Sie von Ihrem Mailserver wieder herunterladen können. Es ignoriert Anhänge, die Sie bereits bearbeitet haben.";
+
+/* Class = "NSMenuItem"; title = "Group by Application ▾"; ObjectID = "j9V-bR-T7i"; */
+"j9V-bR-T7i.title" = "Gruppe von Anwendung ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "jGZ-mx-AdO"; */
+"jGZ-mx-AdO.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Language"; ObjectID = "lkP-Xi-mpP"; */
+"lkP-Xi-mpP.title" = "Sprache";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "oI0-Pe-27s"; */
+"oI0-Pe-27s.title" = "TitleNOTRANS";

@@ -1,0 +1,335 @@
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "471"; */
+"471.title" = "Gehe zu";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "472"; */
+"472.title" = "Fenster";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "475"; */
+"475.title" = "Hilfe";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac"; ObjectID = "476"; */
+"476.title" = "CleanMyMac";
+
+/* Class = "NSMenu"; title = "CleanMyMac"; ObjectID = "477"; */
+"477.title" = "CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "License Agreement…"; ObjectID = "478"; */
+"478.title" = "Lizenzvertrag …";
+
+/* Class = "NSMenuItem"; title = "Activate…"; ObjectID = "479"; */
+"479.title" = "Aktivieren …";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "482"; */
+"482.title" = "Nach Updates suchen";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "484"; */
+"484.title" = "Alle einblenden";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "486"; */
+"486.title" = "Andere ausblenden";
+
+/* Class = "NSMenuItem"; title = "Quit CleanMyMac"; ObjectID = "489"; */
+"489.title" = "CleanMyMac beenden";
+
+/* Class = "NSMenuItem"; title = "Hide CleanMyMac"; ObjectID = "490"; */
+"490.title" = "CleanMyMac ausblenden";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "491"; */
+"491.title" = "Dienste";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "492"; */
+"492.title" = "Einstellungen …";
+
+/* Class = "NSMenuItem"; title = "About CleanMyMac"; ObjectID = "493"; */
+"493.title" = "Über CleanMyMac";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "494"; */
+"494.title" = "Dienste";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "495"; */
+"495.title" = "Hilfe";
+
+/* Class = "NSMenuItem"; title = "Provide Feedback…"; ObjectID = "500"; */
+"500.title" = "Feedback senden …";
+
+/* Class = "NSMenuItem"; title = "Online Manual…"; ObjectID = "501"; */
+"501.title" = "Online-Handbuch …";
+
+/* Class = "NSMenuItem"; title = "Support Center…"; ObjectID = "503"; */
+"503.title" = "Support Center …";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac Help"; ObjectID = "505"; */
+"505.title" = "CleanMyMac Hilfe";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "544"; */
+"544.title" = "Fenster";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "545"; */
+"545.title" = "Alle nach vorne bringen";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "546"; */
+"546.title" = "Im Dock ablegen";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "548"; */
+"548.title" = "Zoomen";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "552"; */
+"552.title" = "Gehe zu";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "576"; */
+"576.title" = "Bearbeiten";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "577"; */
+"577.title" = "Bearbeiten";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "578"; */
+"578.title" = "Widerrufen";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "579"; */
+"579.title" = "Wiederholen";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "581"; */
+"581.title" = "Ausschneiden";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "582"; */
+"582.title" = "Kopieren";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "583"; */
+"583.title" = "Einsetzen";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "584"; */
+"584.title" = "Einsetzen und Stil anpassen";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "585"; */
+"585.title" = "Löschen";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "586"; */
+"586.title" = "Alles auswählen";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "588"; */
+"588.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "589"; */
+"589.title" = "Rechtschreibung und Grammatik";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "590"; */
+"590.title" = "Ersetzungen";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "591"; */
+"591.title" = "Transformationen";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "592"; */
+"592.title" = "Sprachausgabe";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "593"; */
+"593.title" = "Sprachausgabe";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "594"; */
+"594.title" = "Sprachausgabe starten";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "595"; */
+"595.title" = "Sprachausgabe stoppen";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "596"; */
+"596.title" = "Transformationen";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "597"; */
+"597.title" = "Großbuchstaben";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "598"; */
+"598.title" = "Kleinbuchstaben";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "599"; */
+"599.title" = "Großschreibung";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "600"; */
+"600.title" = "Ersetzungen";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "601"; */
+"601.title" = "Ersetzungen einblenden";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "603"; */
+"603.title" = "Intelligentes Kopieren/Einsetzen";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "604"; */
+"604.title" = "Intelligente Anführungszeichen";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "605"; */
+"605.title" = "Intelligente Bindestriche";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "606"; */
+"606.title" = "Intelligente Links";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "607"; */
+"607.title" = "Datenerkennung";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "608"; */
+"608.title" = "Textersetzung";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "609"; */
+"609.title" = "Rechtschreibung";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "610"; */
+"610.title" = "Rechtschreibung und Grammatik einblenden";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "611"; */
+"611.title" = "Dokument jetzt prüfen";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "613"; */
+"613.title" = "Während der Texteingabe prüfen";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "614"; */
+"614.title" = "Rechtschreib- und Grammatikprüfung";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "615"; */
+"615.title" = "Rechtschreibung automatisch korrigieren";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "616"; */
+"616.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "617"; */
+"617.title" = "Suchen …";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "618"; */
+"618.title" = "Weitersuchen (vorwärts)";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "619"; */
+"619.title" = "Weitersuchen (rückwärts)";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "620"; */
+"620.title" = "Auswahl suchen";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "621"; */
+"621.title" = "Auswahl anzeigen";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "654"; */
+"654.title" = "Ablage";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "655"; */
+"655.title" = "Ablage";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "660"; */
+"660.title" = "Auswählen";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "690"; */
+"690.title" = "Schließen";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "694"; */
+"694.title" = "Im Finder anzeigen";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "697"; */
+"697.title" = "Zur Ignore-Liste hinzufügen";
+
+/* Class = "NSMenuItem"; title = "Remove From Ignore List"; ObjectID = "708"; */
+"708.title" = "Aus Ignore-Liste entfernen";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "717"; */
+"717.title" = "Vorschau";
+
+/* Class = "NSMenuItem"; title = "Add Folder…"; ObjectID = "779"; */
+"779.title" = "Ordner hinzufügen …";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "781"; */
+"781.title" = "Öffnen";
+
+/* Class = "NSMenuItem"; title = "Back"; ObjectID = "783"; */
+"783.title" = "Zurück";
+
+/* Class = "NSMenuItem"; title = "Smart Cleanup"; ObjectID = "786"; */
+"786.title" = "Smart Scan";
+
+/* Class = "NSMenuItem"; title = "System Junk"; ObjectID = "787"; */
+"787.title" = "Systemreste";
+
+/* Class = "NSMenuItem"; title = "Large & Old Files"; ObjectID = "788"; */
+"788.title" = "Große & alte Dateien";
+
+/* Class = "NSMenuItem"; title = "iTunes Junk"; ObjectID = "789"; */
+"789.title" = "iTunes-Datenmüll";
+
+/* Class = "NSMenuItem"; title = "Trash Bins"; ObjectID = "790"; */
+"790.title" = "Papierkörbe";
+
+/* Class = "NSMenuItem"; title = "Uninstaller"; ObjectID = "791"; */
+"791.title" = "Deinstallation";
+
+/* Class = "NSMenuItem"; title = "Extensions"; ObjectID = "792"; */
+"792.title" = "Erweiterungen";
+
+/* Class = "NSMenuItem"; title = "Shredder"; ObjectID = "793"; */
+"793.title" = "Vernichter";
+
+/* Class = "NSMenuItem"; title = "Action"; ObjectID = "794"; */
+"794.title" = "Aktion";
+
+/* Class = "NSMenu"; title = "Action"; ObjectID = "795"; */
+"795.title" = "Aktion";
+
+/* Class = "NSMenuItem"; title = "Scan"; ObjectID = "796"; */
+"796.title" = "Scannen";
+
+/* Class = "NSMenuItem"; title = "Authenticate…"; ObjectID = "797"; */
+"797.title" = "Authentifizieren …";
+
+/* Class = "NSMenuItem"; title = "Tell a Friend…"; ObjectID = "820"; */
+"820.title" = "Einem Freund erzählen …";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "5Vf-K2-vSq"; */
+"5Vf-K2-vSq.title" = "Darstellung";
+
+/* Class = "NSMenuItem"; title = "Retrieve License"; ObjectID = "6lf-xA-LM9"; */
+"6lf-xA-LM9.title" = "Lizenz abrufen";
+
+/* Class = "NSMenuItem"; title = "What’s New"; ObjectID = "9WU-MU-mgP"; */
+"9WU-MU-mgP.title" = "Das ist neu";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "9gV-Gh-EOE"; */
+"9gV-Gh-EOE.title" = "Neu scannen";
+
+/* Class = "NSMenuItem"; title = "Privacy"; ObjectID = "DR3-e3-fwp"; */
+"DR3-e3-fwp.title" = "Datenschutz";
+
+/* Class = "NSMenuItem"; title = "iPhoto Junk"; ObjectID = "DfP-YI-XdP"; */
+"DfP-YI-XdP.title" = "iPhoto-Datenmüll";
+
+/* Class = "NSMenuItem"; title = "Show File Paths"; ObjectID = "FjX-R7-03y"; */
+"FjX-R7-03y.title" = "Dateipfade anzeigen";
+
+/* Class = "NSMenu"; title = "Activate"; ObjectID = "OC9-GN-9Hm"; */
+"OC9-GN-9Hm.title" = "Aktivieren";
+
+/* Class = "NSMenuItem"; title = "Buy a License"; ObjectID = "PfL-SC-sMo"; */
+"PfL-SC-sMo.title" = "Lizenz kaufen";
+
+/* Class = "NSMenuItem"; title = "Mail Attachments"; ObjectID = "Rq7-4D-VWi"; */
+"Rq7-4D-VWi.title" = "Mail-Anhänge";
+
+/* Class = "NSMenuItem"; title = "What's New in CleanMyMac 3"; ObjectID = "aVM-ZE-hIW"; */
+"aVM-ZE-hIW.title" = "Das ist neu in CleanMyMac 3";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "bGp-VV-ICJ"; */
+"bGp-VV-ICJ.title" = "Vollbildmodus ein";
+
+/* Class = "NSMenuItem"; title = "Enter Activation Number…"; ObjectID = "gA3-8D-UoI"; */
+"gA3-8D-UoI.title" = "Aktivierungsnummer eingeben …";
+
+/* Class = "NSMenuItem"; title = "Dashboard"; ObjectID = "gaV-Lt-XCl"; */
+"gaV-Lt-XCl.title" = "Dashboard";
+
+/* Class = "NSMenuItem"; title = "Maintenance"; ObjectID = "hLQ-7z-i24"; */
+"hLQ-7z-i24.title" = "Wartung";
+
+/* Class = "NSMenuItem"; title = "Upgrade"; ObjectID = "iZe-CX-KDB"; */
+"iZe-CX-KDB.title" = "Upgrade";
+
+/* Class = "NSMenuItem"; title = "Ignore List"; ObjectID = "kwO-rM-Qef"; */
+"kwO-rM-Qef.title" = "Ignore-Liste";
+
+/* Class = "NSMenuItem"; title = "More MacPaw Products..."; ObjectID = "v0D-3Y-V0k"; */
+"v0D-3Y-V0k.title" = "Weitere MacPaw Produkte…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "w2Z-Lk-CSQ"; */
+"w2Z-Lk-CSQ.title" = "Darstellung";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "y6R-K2-bEv"; */
+"y6R-K2-bEv.title" = "Aktivieren";

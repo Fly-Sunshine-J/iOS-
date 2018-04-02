@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Enable this feature to make CleanMyMac 3 gather detailed logs about all items it removes. Only securely erased files will not be logged."; ObjectID = "GHy-Fz-Ena"; */
+"GHy-Fz-Ena.title" = "Aktivieren Sie diese Funktion, damit CleanMyMac detaillierte Protokolle über alle entfernten Daten erstellt. Nur sicher gelöschte Dateien werden nicht protokolliert.";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "UtT-OQ-6Xe"; */
+"UtT-OQ-6Xe.title" = "Datenschutz:";
+
+/* Class = "NSButtonCell"; title = "Share anonymous usage data"; ObjectID = "awE-0W-LPl"; */
+"awE-0W-LPl.title" = "Anonyme Nutzerdaten senden";
+
+/* Class = "NSTextFieldCell"; title = "Extended Logging:"; ObjectID = "mfH-KL-6am"; */
+"mfH-KL-6am.title" = "Erweiterte Protokollierung:";
+
+/* Class = "NSButtonCell"; title = "Gather detailed logs of all cleaned items"; ObjectID = "wcN-FJ-mW8"; */
+"wcN-FJ-mW8.title" = "Detaillierte Protokolle aller entfernten Elemente erstellen";
+
+/* Class = "NSTextFieldCell"; title = "We kindly ask you keep this checkbox selected to help us make CleanMyMac 3 better. None of your personal information is shared."; ObjectID = "yAY-hs-nKV"; */
+"yAY-hs-nKV.title" = "Wir bitten Sie, diese Option aktiv zu lassen. So helfen Sie uns, CleanMyMac 3 noch besser zu machen. Es werden keinerlei private Daten gesendet.";

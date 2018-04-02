@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "CLx-Bw-lmh"; */
+"CLx-Bw-lmh.title" = "ログを表示";
+
+/* Class = "NSTextFieldCell"; title = "Disk_Needs_Repair_Instruction_NOTRANS"; ObjectID = "Ikn-AP-FAS"; */
+"Ikn-AP-FAS.title" = "Disk_Needs_Repair_Instruction_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Disk needs repair!"; ObjectID = "Rch-cN-Vmm"; */
+"Rch-cN-Vmm.title" = "ディスクを修復する必要があります！";
+
+/* Class = "NSTextFieldCell"; title = "Review cleanup log to identify cleanup errors and try again"; ObjectID = "VAc-Ri-MB2"; */
+"VAc-Ri-MB2.title" = "クリーンアップログを確認してクリーンアップエラーを識別してから、やり直してください";

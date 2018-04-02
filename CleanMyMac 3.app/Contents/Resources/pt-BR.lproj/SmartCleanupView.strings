@@ -1,0 +1,107 @@
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "3ki-FZ-j7c"; */
+"3ki-FZ-j7c.title" = "NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "4Po-0j-85Z"; */
+"4Po-0j-85Z.title" = "Ignorar";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac has identified series of items that can be removed without any loss to your system or private data."; ObjectID = "85E-fz-5Sy"; */
+"85E-fz-5Sy.title" = "Foram identificados vários itens que podem ser removidos sem causar danos ao sistema ou aos seus dados pessoais.";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "8Qp-gf-tBj"; */
+"8Qp-gf-tBj.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Including:"; ObjectID = "97Z-mF-2Rb"; */
+"97Z-mF-2Rb.title" = "Incluindo:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@\n%{value2}@"; ObjectID = "EkP-Qx-9Lh"; */
+"EkP-Qx-9Lh.ibShadowedDisplayPattern" = "%{value1}@\n%{value2}@";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "FMx-PG-utq"; */
+"FMx-PG-utq.title" = "NOTRANS";
+
+/* Class = "NSButtonCell"; title = "What's New?"; ObjectID = "G3r-VS-dce"; */
+"G3r-VS-dce.title" = "Novidades";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "G4d-4K-Oam"; */
+"G4d-4K-Oam.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "GLa-FZ-d2d"; */
+"GLa-FZ-d2d.title" = "TITLE_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Total Found"; ObjectID = "I0G-wM-jwz"; */
+"I0G-wM-jwz.title" = "no Total";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@\n%{value2}@"; ObjectID = "Iyl-Rw-e0R"; */
+"Iyl-Rw-e0R.ibShadowedDisplayPattern" = "%{value1}@\n%{value2}@";
+
+/* Class = "NSTextFieldCell"; title = "Can be safely cleaned from your Mac"; ObjectID = "LYE-LP-ay7"; */
+"LYE-LP-ay7.title" = "Podem ser limpos com segurança";
+
+/* Class = "NSTextFieldCell"; title = "This might take a while, but it's worth it."; ObjectID = "O3s-q6-ReY"; */
+"O3s-q6-ReY.title" = "Isto pode levar algum tempo, mas vale a pena.";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "Pgg-Lg-qpc"; */
+"Pgg-Lg-qpc.title" = "TITLE_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "While you’re scanning…"; ObjectID = "SAP-KF-fn4"; */
+"SAP-KF-fn4.title" = "Enquanto isso…";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "T0R-zx-M43"; */
+"T0R-zx-M43.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Scanning your Mac now…"; ObjectID = "T17-4d-Are"; */
+"T17-4d-Are.title" = "Analisando o seu Mac…";
+
+/* Class = "NSTextFieldCell"; title = "Total Found"; ObjectID = "XBq-Ay-WPe"; */
+"XBq-Ay-WPe.title" = "no Total";
+
+/* Class = "NSTextFieldCell"; title = "Including:"; ObjectID = "Yy4-zT-RJ8"; */
+"Yy4-zT-RJ8.title" = "Incluindo:";
+
+/* Class = "NSTextFieldCell"; title = "Selected"; ObjectID = "ZEe-dw-1GP"; */
+"ZEe-dw-1GP.title" = "Selecionados";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "dDX-rR-ZTh"; */
+"dDX-rR-ZTh.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Learn more about the new CleanMyMac 3 features."; ObjectID = "eof-PS-a6c"; */
+"eof-PS-a6c.title" = "Saiba mais sobre os novos recursos do CleanMyMac 3.";
+
+/* Class = "NSButtonCell"; title = "See Details"; ObjectID = "ew7-Z4-hca"; */
+"ew7-Z4-hca.title" = "Ver Detalhes";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "fAF-l0-pRO"; */
+"fAF-l0-pRO.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "fVh-qj-SQu"; */
+"fVh-qj-SQu.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "fYd-C1-VOE"; */
+"fYd-C1-VOE.title" = "TITLE_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "gWS-er-dKT"; */
+"gWS-er-dKT.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "iv7-rO-tue"; */
+"iv7-rO-tue.title" = "TITLE_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "kNA-NM-gRu"; */
+"kNA-NM-gRu.title" = "TITLE_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "See Details"; ObjectID = "mqL-uU-rfe"; */
+"mqL-uU-rfe.title" = "Ver Detalhes";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "ojG-3Z-RMd"; */
+"ojG-3Z-RMd.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TITLE_NOTRANS"; ObjectID = "pfZ-Yz-GLD"; */
+"pfZ-Yz-GLD.title" = "TITLE_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "uhW-u4-RMW"; */
+"uhW-u4-RMW.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "x5m-Jd-x7c"; */
+"x5m-Jd-x7c.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "yfq-fi-TUX"; */
+"yfq-fi-TUX.title" = "NOTRANS";

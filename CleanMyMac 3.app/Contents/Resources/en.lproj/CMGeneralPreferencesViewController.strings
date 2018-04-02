@@ -1,0 +1,45 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Warning Dialogs:"; ObjectID = "17n-J0-j5G"; */
+"17n-J0-j5G.title" = "Warning Dialogs:";
+
+/* Class = "NSButtonCell"; title = "Disable for better performance"; ObjectID = "9pe-1f-cUu"; */
+"9pe-1f-cUu.title" = "Disable for better performance";
+
+/* Class = "NSTextFieldCell"; title = "Don't remove the following languages from your system or applications:"; ObjectID = "A2K-KS-ApB"; */
+"A2K-KS-ApB.title" = "Don't remove the following languages from your system or applications:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BE6-rL-U61"; */
+"BE6-rL-U61.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Play sounds for main CleanMyMac 3 actions"; ObjectID = "CDF-fI-Ys0"; */
+"CDF-fI-Ys0.title" = "Play sounds for main CleanMyMac 3 actions";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Getting Started"; ObjectID = "KRK-mf-ahf"; */
+"KRK-mf-ahf.ibShadowedToolTip" = "Getting Started";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add item to Exclude List"; ObjectID = "XiP-0U-17c"; */
+"XiP-0U-17c.ibShadowedToolTip" = "Add item to Exclude List";
+
+/* Class = "NSTextFieldCell"; title = "Sounds:"; ObjectID = "YYF-ht-QQK"; */
+"YYF-ht-QQK.title" = "Sounds:";
+
+/* Class = "NSButtonCell"; title = "Get on the Mac App Store"; ObjectID = "dpI-ox-ZqC"; */
+"dpI-ox-ZqC.title" = "Get on the Mac App Store";
+
+/* Class = "NSButtonCell"; title = "Reset All Warnings"; ObjectID = "dyA-YO-4kV"; */
+"dyA-YO-4kV.title" = "Reset All Warnings";
+
+/* Class = "NSTextFieldCell"; title = "Animations:"; ObjectID = "fxE-Qd-Z5X"; */
+"fxE-Qd-Z5X.title" = "Animations:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "ikE-rL-2TE"; */
+"ikE-rL-2TE.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected item from Exclude List"; ObjectID = "leb-3d-0GI"; */
+"leb-3d-0GI.ibShadowedToolTip" = "Remove selected item from Exclude List";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyDrive 2 is a free utility by MacPaw to remove junk from external HDDs and flash drives automatically."; ObjectID = "ocN-SS-TqP"; */
+"ocN-SS-TqP.title" = "CleanMyDrive 2 is a free utility by MacPaw to remove junk from external HDDs and flash drives automatically.";
+
+/* Class = "NSTextFieldCell"; title = "External Drives:"; ObjectID = "qk6-ih-xYA"; */
+"qk6-ih-xYA.title" = "External Drives:";

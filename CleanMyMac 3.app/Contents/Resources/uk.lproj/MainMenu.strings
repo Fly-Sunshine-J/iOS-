@@ -1,0 +1,335 @@
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "471"; */
+"471.title" = "Перехід";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "472"; */
+"472.title" = "Вікно";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "475"; */
+"475.title" = "Довідка";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac"; ObjectID = "476"; */
+"476.title" = "CleanMyMac";
+
+/* Class = "NSMenu"; title = "CleanMyMac"; ObjectID = "477"; */
+"477.title" = "CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "License Agreement…"; ObjectID = "478"; */
+"478.title" = "Ліцензійна угода…";
+
+/* Class = "NSMenuItem"; title = "Activate…"; ObjectID = "479"; */
+"479.title" = "Активувати…";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "482"; */
+"482.title" = "Перевірити оновлення";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "484"; */
+"484.title" = "Показати всі";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "486"; */
+"486.title" = "Приховати інші";
+
+/* Class = "NSMenuItem"; title = "Quit CleanMyMac"; ObjectID = "489"; */
+"489.title" = "Завершити CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "Hide CleanMyMac"; ObjectID = "490"; */
+"490.title" = "Приховати CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "491"; */
+"491.title" = "Служби";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "492"; */
+"492.title" = "Параметри…";
+
+/* Class = "NSMenuItem"; title = "About CleanMyMac"; ObjectID = "493"; */
+"493.title" = "Про CleanMyMac";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "494"; */
+"494.title" = "Служби";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "495"; */
+"495.title" = "Довідка";
+
+/* Class = "NSMenuItem"; title = "Provide Feedback…"; ObjectID = "500"; */
+"500.title" = "Надіслати відгук…";
+
+/* Class = "NSMenuItem"; title = "Online Manual…"; ObjectID = "501"; */
+"501.title" = "Онлайн керівництво…";
+
+/* Class = "NSMenuItem"; title = "Support Center…"; ObjectID = "503"; */
+"503.title" = "Центр підтримки…";
+
+/* Class = "NSMenuItem"; title = "CleanMyMac Help"; ObjectID = "505"; */
+"505.title" = "Довідка CleanMyMac";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "544"; */
+"544.title" = "Вікно";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "545"; */
+"545.title" = "Усі наперед";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "546"; */
+"546.title" = "Згорнути";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "548"; */
+"548.title" = "Наблизити";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "552"; */
+"552.title" = "Перехід";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "576"; */
+"576.title" = "Редагування";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "577"; */
+"577.title" = "Редагування";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "578"; */
+"578.title" = "Відмінити";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "579"; */
+"579.title" = "Повторити";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "581"; */
+"581.title" = "Вирізати";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "582"; */
+"582.title" = "Скопіювати";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "583"; */
+"583.title" = "Вставити";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "584"; */
+"584.title" = "Вставити і допасувати стиль";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "585"; */
+"585.title" = "Видалити";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "586"; */
+"586.title" = "Обрати усі";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "588"; */
+"588.title" = "Знайти";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "589"; */
+"589.title" = "Правопис і граматика";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "590"; */
+"590.title" = "Підстановки";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "591"; */
+"591.title" = "Перетворення";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "592"; */
+"592.title" = "Читання вголос";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "593"; */
+"593.title" = "Читання вголос";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "594"; */
+"594.title" = "Розпочати читання";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "595"; */
+"595.title" = "Зупинити читання";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "596"; */
+"596.title" = "Перетворення";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "597"; */
+"597.title" = "У верхній регістр";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "598"; */
+"598.title" = "У нижній регістр";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "599"; */
+"599.title" = "Заглавні перші літери";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "600"; */
+"600.title" = "Підстановки";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "601"; */
+"601.title" = "Показати підстановки";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "603"; */
+"603.title" = "Розумне копіювання/вставлення";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "604"; */
+"604.title" = "Розумні лапки";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "605"; */
+"605.title" = "Розумні тире";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "606"; */
+"606.title" = "Розумні посилання";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "607"; */
+"607.title" = "Детектори даних";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "608"; */
+"608.title" = "Замінення тексту";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "609"; */
+"609.title" = "Правопис";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "610"; */
+"610.title" = "Показати правопис і граматику";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "611"; */
+"611.title" = "Перевірити документ зараз";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "613"; */
+"613.title" = "Перевіряти правопис під час введення";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "614"; */
+"614.title" = "Перевіряти граматику із правописом";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "615"; */
+"615.title" = "Автоматично виправляти правопис";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "616"; */
+"616.title" = "Пошук";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "617"; */
+"617.title" = "Пошук…";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "618"; */
+"618.title" = "Знайти наступне";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "619"; */
+"619.title" = "Знайти попереднє";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "620"; */
+"620.title" = "Використати виділене для пошуку";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "621"; */
+"621.title" = "Перейти до виділеного";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "654"; */
+"654.title" = "Файл";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "655"; */
+"655.title" = "Файл";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "660"; */
+"660.title" = "Обрати";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "690"; */
+"690.title" = "Закрити";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "694"; */
+"694.title" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "697"; */
+"697.title" = "Додати до переліку виключень";
+
+/* Class = "NSMenuItem"; title = "Remove From Ignore List"; ObjectID = "708"; */
+"708.title" = "Вилучити з переліку виключень";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "717"; */
+"717.title" = "Швидкий перегляд";
+
+/* Class = "NSMenuItem"; title = "Add Folder…"; ObjectID = "779"; */
+"779.title" = "Додати папку…";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "781"; */
+"781.title" = "Запустити";
+
+/* Class = "NSMenuItem"; title = "Back"; ObjectID = "783"; */
+"783.title" = "Назад";
+
+/* Class = "NSMenuItem"; title = "Smart Cleanup"; ObjectID = "786"; */
+"786.title" = "Кмітливе очищення";
+
+/* Class = "NSMenuItem"; title = "System Junk"; ObjectID = "787"; */
+"787.title" = "Системний мотлох";
+
+/* Class = "NSMenuItem"; title = "Large & Old Files"; ObjectID = "788"; */
+"788.title" = "Мій гармидер";
+
+/* Class = "NSMenuItem"; title = "iTunes Junk"; ObjectID = "789"; */
+"789.title" = "Мотлох iTunes";
+
+/* Class = "NSMenuItem"; title = "Trash Bins"; ObjectID = "790"; */
+"790.title" = "Смітнички";
+
+/* Class = "NSMenuItem"; title = "Uninstaller"; ObjectID = "791"; */
+"791.title" = "Деінсталятор";
+
+/* Class = "NSMenuItem"; title = "Extensions"; ObjectID = "792"; */
+"792.title" = "Розширення";
+
+/* Class = "NSMenuItem"; title = "Shredder"; ObjectID = "793"; */
+"793.title" = "Різак";
+
+/* Class = "NSMenuItem"; title = "Action"; ObjectID = "794"; */
+"794.title" = "Дія";
+
+/* Class = "NSMenu"; title = "Action"; ObjectID = "795"; */
+"795.title" = "Дія";
+
+/* Class = "NSMenuItem"; title = "Scan"; ObjectID = "796"; */
+"796.title" = "Аналіз";
+
+/* Class = "NSMenuItem"; title = "Authenticate…"; ObjectID = "797"; */
+"797.title" = "Авторизуватися…";
+
+/* Class = "NSMenuItem"; title = "Tell a Friend…"; ObjectID = "820"; */
+"820.title" = "Розповісти другові…";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "5Vf-K2-vSq"; */
+"5Vf-K2-vSq.title" = "Перегляд";
+
+/* Class = "NSMenuItem"; title = "Retrieve License"; ObjectID = "6lf-xA-LM9"; */
+"6lf-xA-LM9.title" = "Відновити ліцензію";
+
+/* Class = "NSMenuItem"; title = "What’s New"; ObjectID = "9WU-MU-mgP"; */
+"9WU-MU-mgP.title" = "Що нового?";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "9gV-Gh-EOE"; */
+"9gV-Gh-EOE.title" = "Повторний аналіз";
+
+/* Class = "NSMenuItem"; title = "Privacy"; ObjectID = "DR3-e3-fwp"; */
+"DR3-e3-fwp.title" = "Конфіденційність";
+
+/* Class = "NSMenuItem"; title = "iPhoto Junk"; ObjectID = "DfP-YI-XdP"; */
+"DfP-YI-XdP.title" = "Фото мотлох";
+
+/* Class = "NSMenuItem"; title = "Show File Paths"; ObjectID = "FjX-R7-03y"; */
+"FjX-R7-03y.title" = "Показувати шляхи до файлів";
+
+/* Class = "NSMenu"; title = "Activate"; ObjectID = "OC9-GN-9Hm"; */
+"OC9-GN-9Hm.title" = "Активувати";
+
+/* Class = "NSMenuItem"; title = "Buy a License"; ObjectID = "PfL-SC-sMo"; */
+"PfL-SC-sMo.title" = "Купити ліцензію";
+
+/* Class = "NSMenuItem"; title = "Mail Attachments"; ObjectID = "Rq7-4D-VWi"; */
+"Rq7-4D-VWi.title" = "Поштові вкладення";
+
+/* Class = "NSMenuItem"; title = "What's New in CleanMyMac 3"; ObjectID = "aVM-ZE-hIW"; */
+"aVM-ZE-hIW.title" = "Що нового у CleanMyMac 3";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "bGp-VV-ICJ"; */
+"bGp-VV-ICJ.title" = "Перейти у повноекранний режим";
+
+/* Class = "NSMenuItem"; title = "Enter Activation Number…"; ObjectID = "gA3-8D-UoI"; */
+"gA3-8D-UoI.title" = "Ввести активаційний номер…";
+
+/* Class = "NSMenuItem"; title = "Dashboard"; ObjectID = "gaV-Lt-XCl"; */
+"gaV-Lt-XCl.title" = "Моніторинг";
+
+/* Class = "NSMenuItem"; title = "Maintenance"; ObjectID = "hLQ-7z-i24"; */
+"hLQ-7z-i24.title" = "Обслуговування";
+
+/* Class = "NSMenuItem"; title = "Upgrade"; ObjectID = "iZe-CX-KDB"; */
+"iZe-CX-KDB.title" = "Оновити";
+
+/* Class = "NSMenuItem"; title = "Ignore List"; ObjectID = "kwO-rM-Qef"; */
+"kwO-rM-Qef.title" = "Перелік виключень";
+
+/* Class = "NSMenuItem"; title = "More MacPaw Products..."; ObjectID = "v0D-3Y-V0k"; */
+"v0D-3Y-V0k.title" = "Інші продукти MacPaw...";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "w2Z-Lk-CSQ"; */
+"w2Z-Lk-CSQ.title" = "Перегляд";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "y6R-K2-bEv"; */
+"y6R-K2-bEv.title" = "Активувати";

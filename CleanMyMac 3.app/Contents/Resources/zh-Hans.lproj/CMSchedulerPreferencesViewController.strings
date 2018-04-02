@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Features are disabled because CleanMyMac is running from a disk image."; ObjectID = "92N-c2-5Jt"; */
+"92N-c2-5Jt.title" = "功能被禁用，因为 CleanMyMac 正在从磁盘映像中运行。";
+
+/* Class = "NSTextFieldCell"; title = "When launching from the Scheduler notification:"; ObjectID = "9P3-6A-pWr"; */
+"9P3-6A-pWr.title" = "从计划程序通知启动时：";
+
+/* Class = "NSMenuItem"; title = "Annually"; ObjectID = "GXo-zg-Imu"; */
+"GXo-zg-Imu.title" = "每年一次";
+
+/* Class = "NSButtonCell"; title = "Simply launch CleanMyMac 3"; ObjectID = "Ieg-0c-P5H"; */
+"Ieg-0c-P5H.title" = "只需启动 CleanMyMac 3";
+
+/* Class = "NSMenuItem"; title = "Once in six months"; ObjectID = "L4a-Ix-gto"; */
+"L4a-Ix-gto.title" = "每六个月一次";
+
+/* Class = "NSMenuItem"; title = "Once in two weeks"; ObjectID = "Sf5-Ec-zJr"; */
+"Sf5-Ec-zJr.title" = "每两周一次";
+
+/* Class = "NSButtonCell"; title = "Launch and start full scan"; ObjectID = "Vbw-TO-hUV"; */
+"Vbw-TO-hUV.title" = "启动并开始全盘扫描";
+
+/* Class = "NSTextFieldCell"; title = "Remind me about regular cleanup:"; ObjectID = "Voe-Bl-2ZK"; */
+"Voe-Bl-2ZK.title" = "提醒我定期清理：";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "WDA-Q8-aMJ"; */
+"WDA-Q8-aMJ.title" = "每月一次";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Wu3-Wu-Iah"; */
+"Wu3-Wu-Iah.title" = "定期维护";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "byQ-iY-mzo"; */
+"byQ-iY-mzo.title" = "每周一次";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "clL-as-MDo"; */
+"clL-as-MDo.title" = "从不";
+
+/* Class = "NSMenuItem"; title = "Once in three months"; ObjectID = "h9M-oF-jZc"; */
+"h9M-oF-jZc.title" = "每三个月一次";

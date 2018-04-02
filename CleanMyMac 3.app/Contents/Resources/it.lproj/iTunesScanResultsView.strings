@@ -1,0 +1,119 @@
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "37"; */
+"37.title" = "TitleNOTRANS";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "63"; */
+"63.headerCell.title" = "Nome";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89"; */
+"89.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "92"; */
+"92.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "229"; */
+"229.title" = "Seleziona";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "231"; */
+"231.title" = "Aggiungi alla Lista Ignora";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "232"; */
+"232.title" = "Mostra nel Finder";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "234"; */
+"234.title" = "Visualizzazione rapida";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "256"; */
+"256.title" = "999";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "458"; */
+"458.title" = "Deseleziona tutti";
+
+/* Class = "NSTextFieldCell"; title = "1 issue"; ObjectID = "488"; */
+"488.title" = "1 problema";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "544"; */
+"544.ibShadowedToolTip" = "Mostra nel Finder";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "583"; */
+"583.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1227"; */
+"1227.ibShadowedToolTip" = "Mostra nel Finder";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1231"; */
+"1231.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1232"; */
+"1232.title" = "999 MB";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "1253"; */
+"1253.title" = "IgnoreNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1278"; */
+"1278.title" = "Rimuovi dalla Lista Ignora";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1292"; */
+"1292.title" = "999 MB";
+
+/* Class = "NSTextFieldCell"; title = "PathNOTRANS"; ObjectID = "1332"; */
+"1332.title" = "PathNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1684"; */
+"1684.title" = "Ricerca";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "1686"; */
+"1686.ibExternalAccessibilityDescription" = "Menu scanner";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1687"; */
+"1687.title" = "Ricerca";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1725"; */
+"1725.title" = "Ordina per nome ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1726"; */
+"1726.title" = "Dimensioni";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1727"; */
+"1727.title" = "Selezione";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1728"; */
+"1728.title" = "Nome";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1730"; */
+"1730.title" = "Ascendente";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1731"; */
+"1731.title" = "Discendente";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1733"; */
+"1733.title" = "Ordina per nome ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1734"; */
+"1734.title" = "Dimensioni";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1735"; */
+"1735.title" = "Selezione";
+
+/* Class = "NSMenuItem"; title = "Last Clean"; ObjectID = "1736"; */
+"1736.title" = "Ultima pulizia";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1737"; */
+"1737.title" = "Nome";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1739"; */
+"1739.title" = "Ascendente";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1740"; */
+"1740.title" = "Discendente";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1742"; */
+"1742.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1756"; */
+"1756.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "1 issue"; ObjectID = "1788"; */
+"1788.title" = "1 problema";
+
+/* Class = "NSTextFieldCell"; title = "DescriptionNOTRANS"; ObjectID = "cI5-78-YK3"; */
+"cI5-78-YK3.title" = "DescriptionNOTRANS";

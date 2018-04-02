@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "6CQ-Sx-ro3"; */
+"6CQ-Sx-ro3.title" = "Anuluj";
+
+/* Class = "NSTextFieldCell"; title = "Unable to empty your Trash"; ObjectID = "Uba-2j-9pa"; */
+"Uba-2j-9pa.title" = "Nie udało się opróżnić kosza";
+
+/* Class = "NSTextFieldCell"; title = "Some of the items within your Trash were not removed."; ObjectID = "huo-88-7SK"; */
+"huo-88-7SK.title" = "Niektóre rzeczy nie były usunięte z kosza.";
+
+/* Class = "NSButtonCell"; title = "View in CleanMyMac"; ObjectID = "uTk-PW-54V"; */
+"uTk-PW-54V.title" = "Przejrzyj w CleanMyMac";

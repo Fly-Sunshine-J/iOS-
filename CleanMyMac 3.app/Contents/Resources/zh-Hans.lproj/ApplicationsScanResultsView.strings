@@ -1,0 +1,161 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "71"; */
+"71.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "75"; */
+"75.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "92"; */
+"92.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "306"; */
+"306.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "329"; */
+"329.title" = "0 KB";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "787"; */
+"787.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1075"; */
+"1075.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1076"; */
+"1076.title" = "999 MB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1094"; */
+"1094.ibShadowedToolTip" = "在 Finder 中显示";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "1999"; */
+"1999.title" = "正在加载...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all related items for removal, but keeps the main binary"; ObjectID = "3257"; */
+"3257.ibShadowedToolTip" = "选择所有需要移除的相关项目，但保留主要二进制代码";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all application items for complete and correct uninstallation"; ObjectID = "3258"; */
+"3258.ibShadowedToolTip" = "选择所有应用程序项目来完整而正确地卸载";
+
+/* Class = "NSButtonCell"; title = "Complete Uninstallation"; ObjectID = "3265"; */
+"3265.title" = "完成卸载";
+
+/* Class = "NSButtonCell"; title = "Application Reset"; ObjectID = "3267"; */
+"3267.title" = "应用程序重置";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check for all files"; ObjectID = "3520"; */
+"3520.ibShadowedToolTip" = "检查所有文件";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "3524"; */
+"3524.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Uninstall"; ObjectID = "3579"; */
+"3579.title" = "卸载";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "3580"; */
+"3580.title" = "重置";
+
+/* Class = "NSMenuItem"; title = "Keep"; ObjectID = "3581"; */
+"3581.title" = "保留";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "3583"; */
+"3583.title" = "启动";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "3584"; */
+"3584.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "4412"; */
+"4412.title" = "添加到忽略列表";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selector:"; ObjectID = "4737"; */
+"4737.title" = "智能选择器：";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "5076"; */
+"5076.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "5119"; */
+"5119.title" = "查找";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "5263"; */
+"5263.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "5268"; */
+"5268.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "Last Launch Date"; ObjectID = "5269"; */
+"5269.title" = "上次启动日期";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "5270"; */
+"5270.title" = "大小";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "5271"; */
+"5271.title" = "降序";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "5272"; */
+"5272.title" = "升序";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "5274"; */
+"5274.title" = "名称";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5275"; */
+"5275.title" = "种类";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "5276"; */
+"5276.title" = "按名称排序 ▾";
+
+/* Class = "NSTextFieldCell"; title = "System Application"; ObjectID = "42r-Vz-uxj"; */
+"42r-Vz-uxj.title" = "系统应用程序";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4lF-hP-43S"; */
+"4lF-hP-43S.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "79T-U8-Eha"; */
+"79T-U8-Eha.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "8AA-pl-4PA"; */
+"8AA-pl-4PA.title" = "所有";
+
+/* Class = "NSMenuItem"; title = "Selected"; ObjectID = "8ln-IB-vvk"; */
+"8ln-IB-vvk.title" = "所选";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported"; ObjectID = "DE0-RM-1ED"; */
+"DE0-RM-1ED.title" = "不支持";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "DgL-Yk-pgt"; */
+"DgL-Yk-pgt.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "F5x-sv-rOI"; */
+"F5x-sv-rOI.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "all ▾"; ObjectID = "ILn-0e-VyG"; */
+"ILn-0e-VyG.title" = "全部 ▾";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "LbF-Dg-6J6"; */
+"LbF-Dg-6J6.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "PhK-1M-FwU"; */
+"PhK-1M-FwU.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "SjQ-DL-Gkm"; */
+"SjQ-DL-Gkm.title" = "0 KB";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "TxO-7j-cAM"; */
+"TxO-7j-cAM.title" = "在 Finder 中显示";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "WoL-Mi-YcF"; */
+"WoL-Mi-YcF.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "cpK-M8-P7n"; */
+"cpK-M8-P7n.title" = "正在加载...";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "fha-V7-QPS"; */
+"fha-V7-QPS.title" = "重新扫描";
+
+/* Class = "NSMenu"; title = "Items Type"; ObjectID = "ogY-lg-ebR"; */
+"ogY-lg-ebR.title" = "项目类型";
+
+/* Class = "NSMenuItem"; title = "Unsupported"; ObjectID = "vl0-RB-1MJ"; */
+"vl0-RB-1MJ.title" = "不支持";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "xYZ-eM-Z8g"; */
+"xYZ-eM-Z8g.title" = "选择";

@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Features are disabled because CleanMyMac is running from a disk image."; ObjectID = "92N-c2-5Jt"; */
+"92N-c2-5Jt.title" = "Функции отключены, потому что CleanMyMac открыт из образа диска.";
+
+/* Class = "NSTextFieldCell"; title = "When launching from the Scheduler notification:"; ObjectID = "9P3-6A-pWr"; */
+"9P3-6A-pWr.title" = "При открытии из уведомления планировщика:";
+
+/* Class = "NSMenuItem"; title = "Annually"; ObjectID = "GXo-zg-Imu"; */
+"GXo-zg-Imu.title" = "раз в год";
+
+/* Class = "NSButtonCell"; title = "Simply launch CleanMyMac 3"; ObjectID = "Ieg-0c-P5H"; */
+"Ieg-0c-P5H.title" = "Просто открыть CleanMyMac 3";
+
+/* Class = "NSMenuItem"; title = "Once in six months"; ObjectID = "L4a-Ix-gto"; */
+"L4a-Ix-gto.title" = "раз в полгода";
+
+/* Class = "NSMenuItem"; title = "Once in two weeks"; ObjectID = "Sf5-Ec-zJr"; */
+"Sf5-Ec-zJr.title" = "раз в две недели";
+
+/* Class = "NSButtonCell"; title = "Launch and start full scan"; ObjectID = "Vbw-TO-hUV"; */
+"Vbw-TO-hUV.title" = "Открыть и начать полную проверку";
+
+/* Class = "NSTextFieldCell"; title = "Remind me about regular cleanup:"; ObjectID = "Voe-Bl-2ZK"; */
+"Voe-Bl-2ZK.title" = "Напоминать о регулярной очистке:";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "WDA-Q8-aMJ"; */
+"WDA-Q8-aMJ.title" = "раз в месяц";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Wu3-Wu-Iah"; */
+"Wu3-Wu-Iah.title" = "Радио";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "byQ-iY-mzo"; */
+"byQ-iY-mzo.title" = "раз в неделю";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "clL-as-MDo"; */
+"clL-as-MDo.title" = "Никогда";
+
+/* Class = "NSMenuItem"; title = "Once in three months"; ObjectID = "h9M-oF-jZc"; */
+"h9M-oF-jZc.title" = "раз в три месяца";

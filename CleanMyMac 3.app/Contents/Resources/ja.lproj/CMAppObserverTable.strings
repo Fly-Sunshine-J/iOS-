@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "63"; */
+"63.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "68"; */
+"68.title" = "閉じる";
+
+/* Class = "NSButtonCell"; title = "Ignore Related Items"; ObjectID = "164"; */
+"164.title" = "関連項目を除外";
+
+/* Class = "NSButtonCell"; title = "Close All"; ObjectID = "168"; */
+"168.title" = "すべて閉じる";
+
+/* Class = "NSTextFieldCell"; title = "Some applications should be closed for complete cleanup."; ObjectID = "242"; */
+"242.title" = "クリーンアップを完了するために終了が必要なアプリケーションがあります。";
+
+/* Class = "NSTextFieldCell"; title = "Please quit the following applications to clean all of their related items:"; ObjectID = "248"; */
+"248.title" = "次のアプリケーションを終了してすべての関連項目をクリーンアップ：";
+
+/* Class = "NSButtonCell"; title = "Relaunch listed applications after cleanup"; ObjectID = "299"; */
+"299.title" = "クリーンアップ後にリストのアプリケーションを再起動";

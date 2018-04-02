@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "MB"; ObjectID = "102"; */
+"102.title" = "Mo";
+
+/* Class = "NSButtonCell"; title = "Add Files..."; ObjectID = "570"; */
+"570.title" = "Ajouter des fichiers…";
+
+/* Class = "NSMenuItem"; title = "Remove Immediately"; ObjectID = "2Vb-mb-EhC"; */
+"2Vb-mb-EhC.title" = "Suppression immédiate";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "9yE-xV-BU7"; */
+"9yE-xV-BU7.title" = "Placer dans la corbeille";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CleanMyMac Help"; ObjectID = "Vv0-wA-St2"; */
+"Vv0-wA-St2.ibExternalAccessibilityDescription" = "Aide de CleanMyMac";
+
+/* Class = "NSMenuItem"; title = "Move to Folder…"; ObjectID = "bxo-8S-oFp"; */
+"bxo-8S-oFp.title" = "Déplacer dans le dossier…";
+
+/* Class = "NSMenu"; title = "Remove Methods"; ObjectID = "sZt-VD-7HB"; */
+"sZt-VD-7HB.title" = "Méthodes de suppression";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "tFn-Pd-AVp"; */
+"tFn-Pd-AVp.title" = "Afficher l'historique";
+
+/* Class = "NSMenuItem"; title = "Remove Securely"; ObjectID = "z1J-jE-Ng4"; */
+"z1J-jE-Ng4.title" = "Suppression sécurisée";

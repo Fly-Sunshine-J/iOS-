@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "No Search Results"; ObjectID = "21"; */
+"21.title" = "没有搜索结果";
+
+/* Class = "NSButtonCell"; title = "Reset Search"; ObjectID = "24"; */
+"24.title" = "重置搜索";
+
+/* Class = "NSTextFieldCell"; title = "No items matching your request were found."; ObjectID = "25"; */
+"25.title" = "未发现跟您请求匹配的项目。";

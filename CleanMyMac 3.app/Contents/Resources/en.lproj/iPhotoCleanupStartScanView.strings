@@ -1,0 +1,36 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "6lk-Cv-buL"; */
+"6lk-Cv-buL.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "A0V-ek-87o"; */
+"A0V-ek-87o.ibShadowedToolTip" = "Reveal in Finder";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "IVX-Y4-bGL"; */
+"IVX-Y4-bGL.title" = "TextNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "DescriptionNOTRANS"; ObjectID = "IvB-Im-7Ev"; */
+"IvB-Im-7Ev.title" = "DescriptionNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "LEf-rI-Kmp"; */
+"LEf-rI-Kmp.title" = "TextNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "LibraryPathOrSupportingDescriptionNOTRANS"; ObjectID = "ay6-dt-ayn"; */
+"ay6-dt-ayn.title" = "LibraryPathOrSupportingDescriptionNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "b15-LG-96t"; */
+"b15-LG-96t.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "ec5-i0-zGA"; */
+"ec5-i0-zGA.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "fcS-A0-5TH"; */
+"fcS-A0-5TH.title" = "TextNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "ljl-Qb-EAg"; */
+"ljl-Qb-EAg.title" = "TextNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Сhange Library..."; ObjectID = "mRC-Bs-Cpg"; */
+"mRC-Bs-Cpg.title" = "Сhange Library...";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "z40-lG-RXr"; */
+"z40-lG-RXr.title" = "Multiline Label";

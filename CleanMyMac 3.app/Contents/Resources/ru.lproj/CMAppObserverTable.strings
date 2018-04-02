@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "63"; */
+"63.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "68"; */
+"68.title" = "Закрыть";
+
+/* Class = "NSButtonCell"; title = "Ignore Related Items"; ObjectID = "164"; */
+"164.title" = "Игнорировать родственные объекты";
+
+/* Class = "NSButtonCell"; title = "Close All"; ObjectID = "168"; */
+"168.title" = "Закрыть все";
+
+/* Class = "NSTextFieldCell"; title = "Some applications should be closed for complete cleanup."; ObjectID = "242"; */
+"242.title" = "Требуется закрыть некоторые программы перед полной очисткой.";
+
+/* Class = "NSTextFieldCell"; title = "Please quit the following applications to clean all of their related items:"; ObjectID = "248"; */
+"248.title" = "Закройте эти программы для очистки относящихся к ним объектов:";
+
+/* Class = "NSButtonCell"; title = "Relaunch listed applications after cleanup"; ObjectID = "299"; */
+"299.title" = "Перезапустить программы после очистки";

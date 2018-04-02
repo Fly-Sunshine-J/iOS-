@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "No Search Results"; ObjectID = "21"; */
+"21.title" = "検索結果なし";
+
+/* Class = "NSButtonCell"; title = "Reset Search"; ObjectID = "24"; */
+"24.title" = "検索をリセット";
+
+/* Class = "NSTextFieldCell"; title = "No items matching your request were found."; ObjectID = "25"; */
+"25.title" = "条件に一致する項目は見つかりませんでした。";

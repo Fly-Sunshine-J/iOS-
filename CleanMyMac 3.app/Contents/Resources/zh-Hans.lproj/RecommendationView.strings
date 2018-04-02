@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "Try Now"; ObjectID = "Ctz-qB-c57"; */
+"Ctz-qB-c57.title" = "立即尝试";
+
+/* Class = "NSTextFieldCell"; title = "Get Rid of Duplicate Files"; ObjectID = "V8N-QL-9H7"; */
+"V8N-QL-9H7.title" = "删除重复的文件";
+
+/* Class = "NSTextFieldCell"; title = "Delete duplicates with Gemini to free up even more space."; ObjectID = "VTj-Q1-sH5"; */
+"VTj-Q1-sH5.title" = "通过 Gemini 删除重复副本释放更多空间。";
+
+/* Class = "NSTextFieldCell"; title = "Recover more space by reviewing remaining items."; ObjectID = "XEC-6r-Z02"; */
+"XEC-6r-Z02.title" = "通过查看剩余项目恢复更多空间。";
+
+/* Class = "NSTextFieldCell"; title = "Recover more space by reviewing remaining items."; ObjectID = "bKQ-YI-BqI"; */
+"bKQ-YI-BqI.title" = "通过查看剩余项目恢复更多空间。";
+
+/* Class = "NSButtonCell"; title = "Review Items"; ObjectID = "cqk-hV-Ple"; */
+"cqk-hV-Ple.title" = "查看项目";
+
+/* Class = "NSButtonCell"; title = "Review Items"; ObjectID = "fnU-Nc-Y4O"; */
+"fnU-Nc-Y4O.title" = "查看项目";

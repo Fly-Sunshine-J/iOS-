@@ -1,0 +1,183 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "71"; */
+"71.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "75"; */
+"75.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "92"; */
+"92.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "306"; */
+"306.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "329"; */
+"329.title" = "Zero KB";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "787"; */
+"787.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1075"; */
+"1075.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1076"; */
+"1076.title" = "999 MB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1094"; */
+"1094.ibShadowedToolTip" = "Reveal in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "1999"; */
+"1999.title" = "Loading…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all related items for removal, but keeps the main binary"; ObjectID = "3257"; */
+"3257.ibShadowedToolTip" = "Selects all related items for removal, but keeps the main binary";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all application items for complete and correct uninstallation"; ObjectID = "3258"; */
+"3258.ibShadowedToolTip" = "Selects all application items for complete and correct uninstallation";
+
+/* Class = "NSButtonCell"; title = "Complete Uninstallation"; ObjectID = "3265"; */
+"3265.title" = "Complete Uninstallation";
+
+/* Class = "NSButtonCell"; title = "Application Reset"; ObjectID = "3267"; */
+"3267.title" = "Application Reset";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check for all files"; ObjectID = "3520"; */
+"3520.ibShadowedToolTip" = "Check for all files";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "3524"; */
+"3524.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Uninstall"; ObjectID = "3579"; */
+"3579.title" = "Uninstall";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "3580"; */
+"3580.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "Keep"; ObjectID = "3581"; */
+"3581.title" = "Keep";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "3583"; */
+"3583.title" = "Launch";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "3584"; */
+"3584.title" = "Reveal in Finder";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "4412"; */
+"4412.title" = "Add to Ignore List";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selector:"; ObjectID = "4737"; */
+"4737.title" = "Smart Selector:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "5076"; */
+"5076.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "5119"; */
+"5119.title" = "Lookup";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "5263"; */
+"5263.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "5268"; */
+"5268.title" = "Selection";
+
+/* Class = "NSMenuItem"; title = "Last Launch Date"; ObjectID = "5269"; */
+"5269.title" = "Last Launch Date";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "5270"; */
+"5270.title" = "Size";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "5271"; */
+"5271.title" = "Descending";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "5272"; */
+"5272.title" = "Ascending";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "5274"; */
+"5274.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5275"; */
+"5275.title" = "Kind";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "5276"; */
+"5276.title" = "Sort by Name ▾";
+
+/* Class = "NSTextFieldCell"; title = "Steam Application"; ObjectID = "1BE-W3-iqG"; */
+"1BE-W3-iqG.title" = "Steam Application";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2sx-rw-vmW"; */
+"2sx-rw-vmW.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "System Application"; ObjectID = "42r-Vz-uxj"; */
+"42r-Vz-uxj.title" = "System Application";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4lF-hP-43S"; */
+"4lF-hP-43S.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "718-Ia-kmf"; */
+"718-Ia-kmf.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "73J-rk-VcV"; */
+"73J-rk-VcV.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "79T-U8-Eha"; */
+"79T-U8-Eha.title" = "Lookup";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "8AA-pl-4PA"; */
+"8AA-pl-4PA.title" = "All";
+
+/* Class = "NSMenuItem"; title = "Selected"; ObjectID = "8ln-IB-vvk"; */
+"8ln-IB-vvk.title" = "Selected";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "CYP-VF-sYI"; */
+"CYP-VF-sYI.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported"; ObjectID = "DE0-RM-1ED"; */
+"DE0-RM-1ED.title" = "Unsupported";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "F5x-sv-rOI"; */
+"F5x-sv-rOI.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "all ▾"; ObjectID = "ILn-0e-VyG"; */
+"ILn-0e-VyG.title" = "all ▾";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "LbF-Dg-6J6"; */
+"LbF-Dg-6J6.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "TxO-7j-cAM"; */
+"TxO-7j-cAM.title" = "Reveal in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported"; ObjectID = "V3H-t2-wit"; */
+"V3H-t2-wit.title" = "Unsupported";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "WoL-Mi-YcF"; */
+"WoL-Mi-YcF.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "cBZ-UN-n8q"; */
+"cBZ-UN-n8q.title" = "IgnoreNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "cpK-M8-P7n"; */
+"cpK-M8-P7n.title" = "Loading…";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "fha-V7-QPS"; */
+"fha-V7-QPS.title" = "Rescan";
+
+/* Class = "NSMenu"; title = "Items Type"; ObjectID = "ogY-lg-ebR"; */
+"ogY-lg-ebR.title" = "Items Type";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "tdr-7H-2mY"; */
+"tdr-7H-2mY.title" = "999 KB";
+
+/* Class = "NSMenuItem"; title = "Unsupported"; ObjectID = "vl0-RB-1MJ"; */
+"vl0-RB-1MJ.title" = "Unsupported";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "xYZ-eM-Z8g"; */
+"xYZ-eM-Z8g.title" = "Select";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "yHK-Jf-gub"; */
+"yHK-Jf-gub.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "yg3-rI-VaH"; */
+"yg3-rI-VaH.title" = "IgnoreNOTRANS";

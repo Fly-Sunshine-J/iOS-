@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "ET8-3z-JBi"; */
+"ET8-3z-JBi.title" = "Więcej";
+
+/* Class = "NSTextFieldCell"; title = "Total_NOTRANS"; ObjectID = "GP2-EB-ZS5"; */
+"GP2-EB-ZS5.title" = "Total_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Free_NOTRANS"; ObjectID = "LL1-Xk-DNC"; */
+"LL1-Xk-DNC.title" = "Free_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Free Up"; ObjectID = "PR9-UI-RP8"; */
+"PR9-UI-RP8.title" = "Uwolnij";
+
+/* Class = "NSTextFieldCell"; title = "Memory"; ObjectID = "WLl-eP-1jd"; */
+"WLl-eP-1jd.title" = "Pamięć";

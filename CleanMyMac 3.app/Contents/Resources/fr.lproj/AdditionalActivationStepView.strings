@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Your Name"; ObjectID = "4CQ-5R-aA7"; */
+"4CQ-5R-aA7.placeholderString" = "Votre nom";
+
+/* Class = "NSButtonCell"; title = "Keep me up to date with MacPaw news, offers and\nthe latest information on products and services."; ObjectID = "Llg-Fb-Eoi"; */
+"Llg-Fb-Eoi.title" = "Tenez-moi au courant de l'actualité de MacPaw et des nouvelles offres,\nainsi que des dernières informations sur les produits et services.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cg2-mb-ByU"; */
+"cg2-mb-ByU.title" = "Annuler";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3 Activation"; ObjectID = "hl8-Ez-k6S"; */
+"hl8-Ez-k6S.title" = "Activation de CleanMyMac 3";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your Activation Number:"; ObjectID = "jqw-85-01b"; */
+"jqw-85-01b.title" = "Saisissez votre numéro d'activation :";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "t7m-08-xCD"; */
+"t7m-08-xCD.title" = "Activer";
+
+/* Class = "NSTextFieldCell"; title = "Provide your additional details:"; ObjectID = "t9p-C6-j99"; */
+"t9p-C6-j99.title" = "Saisissez les informations complémentaires :";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your Email"; ObjectID = "yqW-I8-wIp"; */
+"yqW-I8-wIp.placeholderString" = "Votre adresse e-mail";

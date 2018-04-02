@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "70"; */
+"70.title" = "Aggiungi";
+
+/* Class = "NSTextFieldCell"; title = "Select languages to keep:"; ObjectID = "90"; */
+"90.title" = "Lingue da conservare:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "154"; */
+"154.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "388"; */
+"388.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "The list above is taken from your System Preferences."; ObjectID = "30z-3C-1da"; */
+"30z-3C-1da.title" = "L'elenco sottostante è tratto dalle Preferenze di Sistema.";

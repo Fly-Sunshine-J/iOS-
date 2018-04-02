@@ -1,0 +1,104 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89"; */
+"89.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "92"; */
+"92.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "229"; */
+"229.title" = "Selecteer";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "231"; */
+"231.title" = "Voeg toe aan negeerlijst";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "232"; */
+"232.title" = "Toon in Finder";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "234"; */
+"234.title" = "Snelle weergave";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1278"; */
+"1278.title" = "Verwijder uit negeerlijst";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1684"; */
+"1684.title" = "Zoek";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "1686"; */
+"1686.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1687"; */
+"1687.title" = "Zoek";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1725"; */
+"1725.title" = "Sorteer op naam ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1726"; */
+"1726.title" = "Grootte";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1727"; */
+"1727.title" = "Selectie";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1728"; */
+"1728.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1730"; */
+"1730.title" = "Oplopend";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1731"; */
+"1731.title" = "Aflopend";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1733"; */
+"1733.title" = "Sorteer op naam ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1734"; */
+"1734.title" = "Grootte";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1735"; */
+"1735.title" = "Selectie";
+
+/* Class = "NSMenuItem"; title = "Last Clean"; ObjectID = "1736"; */
+"1736.title" = "Laatste opruiming";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1737"; */
+"1737.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1739"; */
+"1739.title" = "Oplopend";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1740"; */
+"1740.title" = "Aflopend";
+
+/* Class = "NSTextFieldCell"; title = "Status: Indexing is in progress."; ObjectID = "0Cx-8y-Brp"; */
+"0Cx-8y-Brp.title" = "Status: bezig met indexering.";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "6oe-3S-H2V"; */
+"6oe-3S-H2V.title" = "TextNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "9MV-yE-toI"; */
+"9MV-yE-toI.ibShadowedToolTip" = "Toon info";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "Lkr-RJ-soI"; */
+"Lkr-RJ-soI.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Unlock Full Version"; ObjectID = "TY0-TZ-zxO"; */
+"TY0-TZ-zxO.title" = "Ontgrendel volledige versie";
+
+/* Class = "NSTextFieldCell"; title = "TrialPopover_Text"; ObjectID = "Xkg-vh-NjQ"; */
+"Xkg-vh-NjQ.title" = "TrialPopover_Text";
+
+/* Class = "NSTextFieldCell"; title = "Recommendations:"; ObjectID = "cSU-mo-Ogk"; */
+"cSU-mo-Ogk.title" = "Aanbevelingen:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "em9-ZC-X8s"; */
+"em9-ZC-X8s.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Not available in trial"; ObjectID = "ez2-D9-aB8"; */
+"ez2-D9-aB8.title" = "Niet beschikbaar in proefversie";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "n3g-o4-Ywr"; */
+"n3g-o4-Ywr.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Last run date:"; ObjectID = "wjP-mY-rEG"; */
+"wjP-mY-rEG.title" = "Datum laatste uitvoering:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "yzW-Yr-a8I"; */
+"yzW-Yr-a8I.title" = "TitleNOTRANS";

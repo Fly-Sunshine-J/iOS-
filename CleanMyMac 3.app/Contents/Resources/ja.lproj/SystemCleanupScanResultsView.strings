@@ -1,0 +1,134 @@
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "37"; */
+"37.title" = "TitleNOTRANS";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "63"; */
+"63.headerCell.title" = "名前";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89"; */
+"89.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "92"; */
+"92.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "229"; */
+"229.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "231"; */
+"231.title" = "除外リストに追加";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "232"; */
+"232.title" = "Finder に表示";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "234"; */
+"234.title" = "クイックルック";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "256"; */
+"256.title" = "999";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "458"; */
+"458.title" = "すべて選択解除";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "544"; */
+"544.ibShadowedToolTip" = "Finder に表示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1227"; */
+"1227.ibShadowedToolTip" = "Finder に表示";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1231"; */
+"1231.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1232"; */
+"1232.title" = "999 MB";
+
+/* Class = "NSButtonCell"; title = "IgnoreNOTRANS"; ObjectID = "1253"; */
+"1253.title" = "IgnoreNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1278"; */
+"1278.title" = "除外リストから削除";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1292"; */
+"1292.title" = "999 MB";
+
+/* Class = "NSTextFieldCell"; title = "PathNOTRANS"; ObjectID = "1332"; */
+"1332.title" = "PathNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1684"; */
+"1684.title" = "検索";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "1686"; */
+"1686.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1687"; */
+"1687.title" = "検索";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1725"; */
+"1725.title" = "名前順で並べ替え ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1726"; */
+"1726.title" = "サイズ";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1727"; */
+"1727.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1728"; */
+"1728.title" = "名前";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1730"; */
+"1730.title" = "降順";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1731"; */
+"1731.title" = "昇順";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1733"; */
+"1733.title" = "名前順で並べ替え ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1734"; */
+"1734.title" = "サイズ";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1735"; */
+"1735.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Last Clean"; ObjectID = "1736"; */
+"1736.title" = "前回のクリーンアップ";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1737"; */
+"1737.title" = "名前";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1739"; */
+"1739.title" = "降順";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1740"; */
+"1740.title" = "昇順";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1742"; */
+"1742.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "1756"; */
+"1756.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4QU-5l-rDg"; */
+"4QU-5l-rDg.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Application"; ObjectID = "DK9-BJ-sRC"; */
+"DK9-BJ-sRC.title" = "アプリケーション";
+
+/* Class = "NSMenuItem"; title = "Open with App"; ObjectID = "EtT-Bg-9VD"; */
+"EtT-Bg-9VD.title" = "Open with App";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "GOp-mK-vpl"; */
+"GOp-mK-vpl.title" = "999 MB";
+
+/* Class = "NSTextFieldCell"; title = "All of your email attachments get stored on your Mac, still remaining accessible via Mail even if removed. CleanMyMac offers to clean recoverable attachments, but keeps those you have already modified."; ObjectID = "fLH-9e-so4"; */
+"fLH-9e-so4.title" = "メールの添付ファイルはすべてローカルに保存されていますが、削除後も、メールAppからは続けてアクセスできます。CleanMyMac は回復可能な添付ファイルのクリーンアップを提供しますが、既に修正済みのファイルは残します。";
+
+/* Class = "NSMenuItem"; title = "Group by Application ▾"; ObjectID = "j9V-bR-T7i"; */
+"j9V-bR-T7i.title" = "アプリケーションごとにグループ化 ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "jGZ-mx-AdO"; */
+"jGZ-mx-AdO.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Language"; ObjectID = "lkP-Xi-mpP"; */
+"lkP-Xi-mpP.title" = "言語";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "oI0-Pe-27s"; */
+"oI0-Pe-27s.title" = "TitleNOTRANS";

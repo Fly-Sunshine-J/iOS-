@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "You have successfully activated CleanMyMac 3."; ObjectID = "3io-ra-PnJ"; */
+"3io-ra-PnJ.title" = "Sie haben CleanMyMac 3 erfolgreich aktiviert.";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "e2j-Qw-nnO"; */
+"e2j-Qw-nnO.title" = "Fertig";
+
+/* Class = "NSTextFieldCell"; title = "Thank You!"; ObjectID = "wrW-Tv-eYW"; */
+"wrW-Tv-eYW.title" = "Vielen Dank!";

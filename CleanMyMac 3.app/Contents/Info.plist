@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17A365</string>
+	<key>BuildNumber</key>
+	<string>6543</string>
+	<key>BuildRev</key>
+	<string>d5c4c8d6e294400e5313aab3c806d543877b3926</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>AnyFile</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>XML</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>CleanMyMac 3</string>
+	<key>CFBundleGetInfoString</key>
+	<string>CleanMyMac 3, Copyright © 2008-2017 MacPaw Inc.</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>CleanMyMac3Help.help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>com.macpaw.CleanMyMac.help</string>
+	<key>CFBundleIconFile</key>
+	<string>ApplicationIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.macpaw.CleanMyMac3</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>CleanMyMac 3</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.9.3</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>CleanMyMac multipurpose URL: activation etc.</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>cleanmymac</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>3.9.3</string>
+	<key>CMMainTargetProductVersion</key>
+	<string>3.9.3</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>9C40b</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>17C76</string>
+	<key>DTSDKName</key>
+	<string>macosx10.13</string>
+	<key>DTXcode</key>
+	<string>0920</string>
+	<key>DTXcodeBuild</key>
+	<string>9C40b</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>MDItemKeywords</key>
+	<string>cleaner,uninstaller,shredder,uninstall apps,disk cleanup,mac cleaner,file shredder,clean mac,disk cleaner,clean up mac,speed up mac,mac cleanup,free up disk space,optimize mac,slow mac,privacy clean,clean cookie,cache clean</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2008-2017 MacPaw Inc.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>CMApp</string>
+	<key>NSServices</key>
+	<array>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Scan for Large and Old Files</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>scanFolderForLargeOld</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>public.folder</string>
+			</array>
+			<key>NSSendTypes</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Clean with CleanMyMac</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>cleanVolume</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>public.volume</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Erase with CleanMyMac</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>eraseItem</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>public.item</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Securely Erase with CleanMyMac</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>securelyEraseItem</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>public.item</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Uninstall with CleanMyMac</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>uninstallApplication</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>com.apple.application-bundle</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Clean iPhoto Library with CleanMyMac</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>cleanPhotoLibrary</string>
+			<key>NSPortName</key>
+			<string>CleanMyMac 3 Service</string>
+			<key>NSRequiredContext</key>
+			<dict/>
+			<key>NSSendFileTypes</key>
+			<array>
+				<string>com.apple.photo.library</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSUserNotificationAlertStyle</key>
+	<string>banner</string>
+	<key>SMPrivilegedExecutables</key>
+	<dict>
+		<key>com.macpaw.CleanMyMac3.Agent</key>
+		<string>identifier com.macpaw.CleanMyMac3.Agent and anchor apple generic and certificate leaf[subject.OU] = "S8EX82NJP6"</string>
+	</dict>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUEnableSystemProfiling</key>
+	<true/>
+</dict>
+</plist>

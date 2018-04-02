@@ -1,0 +1,173 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "204"; */
+"204.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "213"; */
+"213.title" = "TitleNOTRANS";
+
+/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "Extensions View"; ObjectID = "338"; */
+"338.ibExternalAccessibilityDescription" = "Перегляд розширень";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "342"; */
+"342.headerCell.title" = "Ім'я";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "414"; */
+"414.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "518"; */
+"518.title" = "Відмінити все";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "553"; */
+"553.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "562"; */
+"562.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "581"; */
+"581.title" = "Швидкий перегляд";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "583"; */
+"583.title" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "585"; */
+"585.title" = "Обрати";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "591"; */
+"591.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "691"; */
+"691.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "864"; */
+"864.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "906"; */
+"906.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "990"; */
+"990.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Select All Items"; ObjectID = "1194"; */
+"1194.title" = "Обрати усі";
+
+/* Class = "NSMenuItem"; title = "NOTRANS_Relaunch Application"; ObjectID = "1195"; */
+"1195.title" = "NOTRANS_Relaunch Application";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "1196"; */
+"1196.title" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "1199"; */
+"1199.title" = "Оновити";
+
+/* Class = "NSMenuItem"; title = "NOTRANS_Launch Application"; ObjectID = "1202"; */
+"1202.title" = "NOTRANS_Launch Application";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "1629"; */
+"1629.title" = "Нуль КБ";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "2194"; */
+"2194.title" = "Додати до переліку виключень";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "2195"; */
+"2195.title" = "Вилучити з переліку виключень";
+
+/* Class = "NSTextFieldCell"; title = "Extensions Manager"; ObjectID = "2383"; */
+"2383.title" = "Управління розширеннями";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2385"; */
+"2385.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2587"; */
+"2587.title" = "Пошук";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2589"; */
+"2589.title" = "Пошук";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2642"; */
+"2642.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "2652"; */
+"2652.title" = "За спаданням";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "2653"; */
+"2653.title" = "За зростанням";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "2655"; */
+"2655.title" = "Іменем";
+
+/* Class = "NSMenuItem"; title = "Count"; ObjectID = "2656"; */
+"2656.title" = "Кількістю";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "2657"; */
+"2657.title" = "Сортувати за іменем ▾";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "2670"; */
+"2670.title" = "За спаданням";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "2671"; */
+"2671.title" = "За зростанням";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "2673"; */
+"2673.title" = "Іменем";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "2674"; */
+"2674.title" = "Обраним";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "2675"; */
+"2675.title" = "Розміром";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "2676"; */
+"2676.title" = "Сортувати за іменем ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2679"; */
+"2679.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "3Q9-YO-VaF"; */
+"3Q9-YO-VaF.title" = "Завантаження…";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "8op-Qd-pdw"; */
+"8op-Qd-pdw.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "D3h-1y-wRj"; */
+"D3h-1y-wRj.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "VNE-Cc-bCx"; */
+"VNE-Cc-bCx.title" = "Нуль КБ";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "YIM-EK-mLj"; */
+"YIM-EK-mLj.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "aVK-Ou-53I"; */
+"aVK-Ou-53I.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "aee-YO-7oo"; */
+"aee-YO-7oo.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "cHF-9K-4uh"; */
+"cHF-9K-4uh.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "cJI-W7-4RX"; */
+"cJI-W7-4RX.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "State"; ObjectID = "ee6-Z3-j3r"; */
+"ee6-Z3-j3r.title" = "Станом";
+
+/* Class = "NSTextFieldCell"; title = "DescriptionNOTRANS"; ObjectID = "hCb-XS-puI"; */
+"hCb-XS-puI.title" = "DescriptionNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "hcJ-ko-Aj1"; */
+"hcJ-ko-Aj1.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "r7Q-3J-aJM"; */
+"r7Q-3J-aJM.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "rGg-eC-Mcl"; */
+"rGg-eC-Mcl.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "sPo-GW-Hox"; */
+"sPo-GW-Hox.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "u1u-zZ-UdN"; */
+"u1u-zZ-UdN.title" = "Нуль КБ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "urU-sP-CJe"; */
+"urU-sP-CJe.ibShadowedToolTip" = "Показати у Finder";

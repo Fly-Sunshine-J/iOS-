@@ -1,0 +1,11 @@
+/* Class = "NSTextFieldCell"; title = "Memory"; ObjectID = "2xV-5Y-jfV"; */
+"2xV-5Y-jfV.title" = "Speicher";
+
+/* Class = "NSTextFieldCell"; title = "total_NOTRANS"; ObjectID = "HUD-XN-sPg"; */
+"HUD-XN-sPg.title" = "total_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Free Up"; ObjectID = "TUI-7f-tdn"; */
+"TUI-7f-tdn.title" = "Freigeben";
+
+/* Class = "NSTextFieldCell"; title = "free_NOTRANS"; ObjectID = "pMt-gm-ygc"; */
+"pMt-gm-ygc.title" = "free_NOTRANS";

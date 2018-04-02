@@ -1,0 +1,107 @@
+/* Class = "NSTextFieldCell"; title = "Features are disabled because CleanMyMac is running from a disk image."; ObjectID = "2Wv-7e-za3"; */
+"2Wv-7e-za3.title" = "Functies zijn uitgeschakeld omdat CleanMyMac is gestart vanuit een schijfkopie.";
+
+/* Class = "NSButtonCell"; title = "Notify about hung applications"; ObjectID = "4rv-Gd-lr3"; */
+"4rv-Gd-lr3.title" = "Meld vastgelopen programma’s";
+
+/* Class = "NSMenuItem"; title = "15 GB"; ObjectID = "69e-db-Tb1"; */
+"69e-db-Tb1.title" = "15 GB";
+
+/* Class = "NSMenuItem"; title = "5 GB"; ObjectID = "79T-X1-P8S"; */
+"79T-X1-P8S.title" = "5 GB";
+
+/* Class = "NSButtonCell"; title = "Reset All Warnings"; ObjectID = "9a3-Uu-pCn"; */
+"9a3-Uu-pCn.title" = "Stel alle waarschuwingen opnieuw in";
+
+/* Class = "NSMenuItem"; title = "10 GB"; ObjectID = "A7U-A1-t9f"; */
+"A7U-A1-t9f.title" = "10 GB";
+
+/* Class = "NSTextFieldCell"; title = "App monitor:"; ObjectID = "D06-VG-A8a"; */
+"D06-VG-A8a.title" = "Programmaweergave:";
+
+/* Class = "NSTextFieldCell"; title = "Reset Health and Monitoring:"; ObjectID = "F4w-j0-Dvd"; */
+"F4w-j0-Dvd.title" = "Stel status en bewaking opnieuw in:";
+
+/* Class = "NSMenuItem"; title = "1 GB"; ObjectID = "F6S-sz-SSx"; */
+"F6S-sz-SSx.title" = "1 GB";
+
+/* Class = "NSMenuItem"; title = "25 GB"; ObjectID = "GJg-kp-7LY"; */
+"GJg-kp-7LY.title" = "25 GB";
+
+/* Class = "NSMenuItem"; title = "2 GB"; ObjectID = "Gpr-Z6-4WY"; */
+"Gpr-Z6-4WY.title" = "2 GB";
+
+/* Class = "NSTextFieldCell"; title = "ON"; ObjectID = "HyC-eE-6Lu"; */
+"HyC-eE-6Lu.title" = "AAN";
+
+/* Class = "NSMenuItem"; title = "Don't Notify"; ObjectID = "I7k-AV-64C"; */
+"I7k-AV-64C.title" = "Meld niet";
+
+/* Class = "NSMenuItem"; title = "2 GB"; ObjectID = "Iqx-3W-S8M"; */
+"Iqx-3W-S8M.title" = "2 GB";
+
+/* Class = "NSTextFieldCell"; title = "OFF"; ObjectID = "LiL-vK-l79"; */
+"LiL-vK-l79.title" = "UIT";
+
+/* Class = "NSMenuItem"; title = "500 MB"; ObjectID = "NlQ-dv-VZ4"; */
+"NlQ-dv-VZ4.title" = "500 MB";
+
+/* Class = "NSMenuItem"; title = "20 GB"; ObjectID = "RR3-hE-vtd"; */
+"RR3-hE-vtd.title" = "20 GB";
+
+/* Class = "NSMenuItem"; title = "100 GB"; ObjectID = "VgG-jK-AjH"; */
+"VgG-jK-AjH.title" = "100 GB";
+
+/* Class = "NSTextFieldCell"; title = "If you put an application into Trash, you will be offered to uninstall it correctly."; ObjectID = "a3R-Qh-hJP"; */
+"a3R-Qh-hJP.title" = "Als je een app in de Prullenmand plaatst, word je aangeboden om die juist te verwijderen.";
+
+/* Class = "NSMenuItem"; title = "5 GB"; ObjectID = "aMZ-Fm-JW8"; */
+"aMZ-Fm-JW8.title" = "5 GB";
+
+/* Class = "NSMenuItem"; title = "30 GB"; ObjectID = "bKp-Rc-ONQ"; */
+"bKp-Rc-ONQ.title" = "30 GB";
+
+/* Class = "NSMenuItem"; title = "10 GB"; ObjectID = "dvW-GR-VeR"; */
+"dvW-GR-VeR.title" = "10 GB";
+
+/* Class = "NSTextFieldCell"; title = "Warn when free space is less than:"; ObjectID = "giJ-QB-h5i"; */
+"giJ-QB-h5i.title" = "Waarschuw bij minder vrije ruimte dan:";
+
+/* Class = "NSMenuItem"; title = "50 GB"; ObjectID = "hhr-Pj-Pak"; */
+"hhr-Pj-Pak.title" = "50 GB";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3 Menu"; ObjectID = "hlY-gy-gLw"; */
+"hlY-gy-gLw.title" = "CleanMyMac 3-menu";
+
+/* Class = "NSMenuItem"; title = "100 GB"; ObjectID = "iHe-FN-l4D"; */
+"iHe-FN-l4D.title" = "100 GB";
+
+/* Class = "NSTextFieldCell"; title = "healthDescription2_NOTRANS"; ObjectID = "jHZ-dX-kEb"; */
+"jHZ-dX-kEb.title" = "healthDescription2_NOTRANS";
+
+/* Class = "NSMenuItem"; title = "Don't Warn"; ObjectID = "jdZ-dk-nnn"; */
+"jdZ-dk-nnn.title" = "Waarschuw niet";
+
+/* Class = "NSMenuItem"; title = "50 GB"; ObjectID = "l5n-6Q-C26"; */
+"l5n-6Q-C26.title" = "50 GB";
+
+/* Class = "NSTextFieldCell"; title = "If any of your running applications stop responding, you will get notified and offered to force quit them."; ObjectID = "m3F-pZ-iBc"; */
+"m3F-pZ-iBc.title" = "Als actieve programma’s niet meer reageren, krijg je een melding met de optie om ze geforceerd te stoppen.";
+
+/* Class = "NSMenuItem"; title = "3 GB"; ObjectID = "nbW-gj-DSU"; */
+"nbW-gj-DSU.title" = "3 GB";
+
+/* Class = "NSTextFieldCell"; title = "Uninstaller:"; ObjectID = "ooT-i0-mdD"; */
+"ooT-i0-mdD.title" = "Verwijderaar:";
+
+/* Class = "NSMenuItem"; title = "20 GB"; ObjectID = "qaU-Zc-tPe"; */
+"qaU-Zc-tPe.title" = "20 GB";
+
+/* Class = "NSButtonCell"; title = "Offer to correctly uninstall applications"; ObjectID = "x1G-cE-w2W"; */
+"x1G-cE-w2W.title" = "Vraag om programma’s juist te verwijderen";
+
+/* Class = "NSTextFieldCell"; title = "Provides a quick look at your key system readings and easy access to the Free Up RAM feature."; ObjectID = "xKt-YI-n8q"; */
+"xKt-YI-n8q.title" = "Geeft de belangrijkste systeemgegevens weer en geeft je snel toegang tot de functie Maak RAM vrij.";
+
+/* Class = "NSTextFieldCell"; title = "Notify when Trash size exceeds:"; ObjectID = "z3l-1P-lqU"; */
+"z3l-1P-lqU.title" = "Melding bij grotere prullenmand dan:";

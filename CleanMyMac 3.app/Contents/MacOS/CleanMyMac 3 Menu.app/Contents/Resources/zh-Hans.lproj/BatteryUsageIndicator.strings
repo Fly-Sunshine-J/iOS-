@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Charged_NOTRANS"; ObjectID = "K0f-ez-ufE"; */
+"K0f-ez-ufE.title" = "Charged_NOTRANS";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Health: %{value1}@"; ObjectID = "Qo4-To-wqV"; */
+"Qo4-To-wqV.ibShadowedDisplayPattern" = "运行状况：%{value1}@";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ mAh"; ObjectID = "Umo-hi-J6a"; */
+"Umo-hi-J6a.ibShadowedDisplayPattern" = "%{value1}@ mAh";
+
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "ZV8-AW-9kg"; */
+"ZV8-AW-9kg.title" = "了解更多";
+
+/* Class = "NSTextFieldCell"; title = "mAh__NOTRANS"; ObjectID = "eEO-Ty-xfG"; */
+"eEO-Ty-xfG.title" = "mAh__NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Battery"; ObjectID = "sa7-Ax-yUf"; */
+"sa7-Ax-yUf.title" = "电池";

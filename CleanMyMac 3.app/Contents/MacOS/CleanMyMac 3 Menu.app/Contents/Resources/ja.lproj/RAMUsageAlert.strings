@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Description_NOTRANS"; ObjectID = "BUr-wQ-m5O"; */
+"BUr-wQ-m5O.title" = "Description_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Ignore ▾"; ObjectID = "NQ4-Vm-ds1"; */
+"NQ4-Vm-ds1.title" = "除外 ▾";
+
+/* Class = "NSMenuItem"; title = "Ignore Forever"; ObjectID = "OeT-ot-647"; */
+"OeT-ot-647.title" = "完全に除外";
+
+/* Class = "NSMenuItem"; title = "Ignore For Now"; ObjectID = "XgO-V4-2tx"; */
+"XgO-V4-2tx.title" = "今は無視";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "ZjH-Ug-lh3"; */
+"ZjH-Ug-lh3.title" = "詳しい情報…";
+
+/* Class = "NSTextFieldCell"; title = "Title_NOTRANS"; ObjectID = "deO-cq-ZI4"; */
+"deO-cq-ZI4.title" = "Title_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Almost full"; ObjectID = "kYw-43-gAb"; */
+"kYw-43-gAb.title" = "ほとんど一杯";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "pri-EU-SCy"; */
+"pri-EU-SCy.title" = "Simulated_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "RAM + Swap"; ObjectID = "reK-3J-Wq2"; */
+"reK-3J-Wq2.title" = "RAM + スワップ";

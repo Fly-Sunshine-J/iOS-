@@ -1,0 +1,30 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "CleanMyMac allows you to instantly force quit frozen apps or wait until they become responsive."; ObjectID = "7tY-1m-BWE"; */
+"7tY-1m-BWE.title" = "CleanMyMac allows you to instantly force quit frozen apps or wait until they become responsive.";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "9bo-To-PUa"; */
+"9bo-To-PUa.title" = "name_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JEb-gc-dpt"; */
+"JEb-gc-dpt.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "LKd-y1-icG"; */
+"LKd-y1-icG.title" = "Quit";
+
+/* Class = "NSButtonCell"; title = "Force Quit All"; ObjectID = "Tt0-VP-Smp"; */
+"Tt0-VP-Smp.title" = "Force Quit All";
+
+/* Class = "NSTextFieldCell"; title = "Non-responsive applications"; ObjectID = "dcw-v2-ewB"; */
+"dcw-v2-ewB.title" = "Non-responsive applications";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "gkr-Fr-k3o"; */
+"gkr-Fr-k3o.title" = "Simulated_NOTRANS";
+
+/* Class = "NSMenuItem"; title = "Ignore For Now"; ObjectID = "juZ-h4-WgD"; */
+"juZ-h4-WgD.title" = "Ignore For Now";
+
+/* Class = "NSButtonCell"; title = "Ignore ▾"; ObjectID = "lNH-y8-eZg"; */
+"lNH-y8-eZg.title" = "Ignore ▾";
+
+/* Class = "NSMenuItem"; title = "Ignore Forever"; ObjectID = "zhg-XI-Gmx"; */
+"zhg-XI-Gmx.title" = "Ignore Forever";

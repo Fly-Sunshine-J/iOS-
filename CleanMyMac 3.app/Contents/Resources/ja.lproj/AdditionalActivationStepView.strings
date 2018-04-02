@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Your Name"; ObjectID = "4CQ-5R-aA7"; */
+"4CQ-5R-aA7.placeholderString" = "お名前";
+
+/* Class = "NSButtonCell"; title = "Keep me up to date with MacPaw news, offers and\nthe latest information on products and services."; ObjectID = "Llg-Fb-Eoi"; */
+"Llg-Fb-Eoi.title" = "MacPaw についてのニュース、特別割引、製品やサービスに関連する最新情報を送信してください。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cg2-mb-ByU"; */
+"cg2-mb-ByU.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3 Activation"; ObjectID = "hl8-Ez-k6S"; */
+"hl8-Ez-k6S.title" = "CleanMyMac 3 ライセンス";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your Activation Number:"; ObjectID = "jqw-85-01b"; */
+"jqw-85-01b.title" = "ライセンス認証番号を入力してください：";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "t7m-08-xCD"; */
+"t7m-08-xCD.title" = "ライセンス認証";
+
+/* Class = "NSTextFieldCell"; title = "Provide your additional details:"; ObjectID = "t9p-C6-j99"; */
+"t9p-C6-j99.title" = "詳細を追加してください：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your Email"; ObjectID = "yqW-I8-wIp"; */
+"yqW-I8-wIp.placeholderString" = "メールアドレス";

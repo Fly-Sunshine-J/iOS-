@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Having the database in its latest state is vital for maximum cleanup efficiency and compatibility with other software products."; ObjectID = "0vN-Y8-kac"; */
+"0vN-Y8-kac.title" = "Eine stets aktuelle Datenbank ist wichtig für höchste Wirkung bei der Bereinigung und für Kompatibilität mit anderen Programmen.";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "1OX-iA-kBL"; */
+"1OX-iA-kBL.title" = "Updates:";
+
+/* Class = "NSButtonCell"; title = "Check For Updates"; ObjectID = "1ir-Td-05F"; */
+"1ir-Td-05F.title" = "Nach Updates suchen";
+
+/* Class = "NSButtonCell"; title = "Enable background updates of CleanMyMac 3's Safety Database"; ObjectID = "6se-SK-cQG"; */
+"6se-SK-cQG.title" = "Hintergrundaktualisierung der CleanMyMac 3 Sicherheitsdatenbank";
+
+/* Class = "NSTextFieldCell"; title = "Never"; ObjectID = "CyB-aC-cCN"; */
+"CyB-aC-cCN.title" = "Nie";
+
+/* Class = "NSButtonCell"; title = "Download updates in the background"; ObjectID = "Err-hb-Uka"; */
+"Err-hb-Uka.title" = "Updates im Hintergrund laden";
+
+/* Class = "NSTextFieldCell"; title = "Please be careful when updating to Beta versions as they include experimental features and can be unstable or result in data loss."; ObjectID = "cT7-G9-Hqn"; */
+"cT7-G9-Hqn.title" = "Bitte seien Sie vorsichtig mit der Aktualisierung auf Beta-Versionen, weil sie noch nicht offiziell unterstützte Funktionen enthalten, instabil sein und Datenverlust verursachen können.";
+
+/* Class = "NSTextFieldCell"; title = "Last check:"; ObjectID = "eTi-h9-9Aj"; */
+"eTi-h9-9Aj.title" = "Letzte Prüfung:";
+
+/* Class = "NSButtonCell"; title = "Offer to update to Beta versions when available"; ObjectID = "rsr-ip-uDx"; */
+"rsr-ip-uDx.title" = "Anbieten, auf verfügbare Beta-Versionen zu aktualisieren";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "uFA-lO-jke"; */
+"uFA-lO-jke.title" = "Automatisch nach Updates suchen";

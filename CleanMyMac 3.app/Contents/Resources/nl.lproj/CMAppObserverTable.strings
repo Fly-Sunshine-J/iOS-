@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "63"; */
+"63.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "68"; */
+"68.title" = "Sluit";
+
+/* Class = "NSButtonCell"; title = "Ignore Related Items"; ObjectID = "164"; */
+"164.title" = "Negeer bijbehorende items";
+
+/* Class = "NSButtonCell"; title = "Close All"; ObjectID = "168"; */
+"168.title" = "Sluit alles";
+
+/* Class = "NSTextFieldCell"; title = "Some applications should be closed for complete cleanup."; ObjectID = "242"; */
+"242.title" = "Je moet bepaalde programma’s sluiten voor een complete opruiming.";
+
+/* Class = "NSTextFieldCell"; title = "Please quit the following applications to clean all of their related items:"; ObjectID = "248"; */
+"248.title" = "Stop de volgende programma’s om alle bijbehorende items op te ruimen:";
+
+/* Class = "NSButtonCell"; title = "Relaunch listed applications after cleanup"; ObjectID = "299"; */
+"299.title" = "Herstart vermelde programma’s na opruiming";

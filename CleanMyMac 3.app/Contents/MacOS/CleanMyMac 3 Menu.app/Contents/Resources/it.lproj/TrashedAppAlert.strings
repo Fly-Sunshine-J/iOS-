@@ -1,0 +1,59 @@
+/* Class = "NSTabViewItem"; label = "Done"; ObjectID = "0Rw-Ht-BU0"; */
+"0Rw-Ht-BU0.label" = "Fine";
+
+/* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "2tN-Vk-FfL"; */
+"2tN-Vk-FfL.label" = "Progresso";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "36X-eO-Dld"; */
+"36X-eO-Dld.title" = "Simulated_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Remove trashed applications along with all related leftovers._NOTRANS"; ObjectID = "7tY-1m-BWE"; */
+"7tY-1m-BWE.title" = "Remove trashed applications along with all related leftovers._NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "9bo-To-PUa"; */
+"9bo-To-PUa.title" = "name_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JEb-gc-dpt"; */
+"JEb-gc-dpt.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "View in CleanMyMac"; ObjectID = "PkK-TD-ROB"; */
+"PkK-TD-ROB.title" = "Mostra in CleanMyMac";
+
+/* Class = "NSButtonCell"; title = "Uninstall Completely"; ObjectID = "Tt0-VP-Smp"; */
+"Tt0-VP-Smp.title" = "Disinstalla completamente";
+
+/* Class = "NSTextFieldCell"; title = "Done"; ObjectID = "Ubj-sP-ZTc"; */
+"Ubj-sP-ZTc.title" = "Fine";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "Xjh-6c-zX9"; */
+"Xjh-6c-zX9.title" = "Ignora";
+
+/* Class = "NSTextFieldCell"; title = "Uninstalling Applications"; ObjectID = "aOF-uX-Qwv"; */
+"aOF-uX-Qwv.title" = "Disinstallo applicazioni…";
+
+/* Class = "NSTabViewItem"; label = "List"; ObjectID = "aPp-ZF-2bB"; */
+"aPp-ZF-2bB.label" = "Lista";
+
+/* Class = "NSTabViewItem"; label = "Failure"; ObjectID = "cN9-tP-OZV"; */
+"cN9-tP-OZV.label" = "Errore";
+
+/* Class = "NSTextFieldCell"; title = "Uninstall applications correctly."; ObjectID = "dcw-v2-ewB"; */
+"dcw-v2-ewB.title" = "Disinstalla correttamente applicazioni.";
+
+/* Class = "NSTextFieldCell"; title = "size_NOTRANS"; ObjectID = "kaS-4X-G6R"; */
+"kaS-4X-G6R.title" = "size_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "lNH-y8-eZg"; */
+"lNH-y8-eZg.title" = "Ignora";
+
+/* Class = "NSButtonCell"; title = "View in CleanMyMac"; ObjectID = "ma2-UC-h7Y"; */
+"ma2-UC-h7Y.title" = "Mostra in CleanMyMac";
+
+/* Class = "NSTextFieldCell"; title = "description_NOTRANS"; ObjectID = "xvu-sH-EvI"; */
+"xvu-sH-EvI.title" = "description_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Uninstallation Failed"; ObjectID = "y0V-pL-Nrl"; */
+"y0V-pL-Nrl.title" = "Disinstallazione non riuscita";
+
+/* Class = "NSTextFieldCell"; title = "Some of the related items could not be removed."; ObjectID = "yFD-1h-vNn"; */
+"yFD-1h-vNn.title" = "Alcuni elementi correlati non sono stati rimossi.";

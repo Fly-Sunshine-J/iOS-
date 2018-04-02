@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "Review cleanup log to identify cleanup errors and try again."; ObjectID = "53y-aW-iSL"; */
+"53y-aW-iSL.title" = "Controleer het log van de opruiming om fouten te zoeken en probeer opnieuw.";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "GLV-QN-4uL"; */
+"GLV-QN-4uL.title" = "Toon log";
+
+/* Class = "NSTextFieldCell"; title = "Cleanup Failed"; ObjectID = "cdZ-vo-SRS"; */
+"cdZ-vo-SRS.title" = "Opruiming mislukt";

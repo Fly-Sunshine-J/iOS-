@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "2pb-f0-hZe"; */
+"2pb-f0-hZe.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "AxY-Cj-SZv"; */
+"AxY-Cj-SZv.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Review Details"; ObjectID = "KdN-MH-7LY"; */
+"KdN-MH-7LY.title" = "詳細を確認";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ found in total"; ObjectID = "Nsp-Ep-pXg"; */
+"Nsp-Ep-pXg.ibShadowedDisplayPattern" = "合計 %{value1}@ 検出されました";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "QHZ-Qy-k7C"; */
+"QHZ-Qy-k7C.title" = "NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selected"; ObjectID = "VZ9-8S-8Q5"; */
+"VZ9-8S-8Q5.title" = "スマート選択";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "qwW-Z9-gK8"; */
+"qwW-Z9-gK8.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Scan completed"; ObjectID = "sex-IZ-LvQ"; */
+"sex-IZ-LvQ.title" = "スキャンを完了";
+
+/* Class = "NSTextFieldCell"; title = "Scan completed"; ObjectID = "ssQ-1Y-tko"; */
+"ssQ-1Y-tko.title" = "スキャンを完了";

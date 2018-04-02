@@ -1,0 +1,203 @@
+/* Class = "NSTabViewItem"; label = "Trashes"; ObjectID = "0mC-dy-NFJ"; */
+"0mC-dy-NFJ.label" = "Trashes";
+
+/* Class = "NSTextFieldCell"; title = "Files and applications to ignore:"; ObjectID = "0zz-bY-AMf"; */
+"0zz-bY-AMf.title" = "Te negeren bestanden en programma’s:";
+
+/* Class = "NSTabViewItem"; label = "SysCleanup"; ObjectID = "1Ve-lq-x9z"; */
+"1Ve-lq-x9z.label" = "SysCleanup";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add items"; ObjectID = "1wd-Ak-anv"; */
+"1wd-Ak-anv.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSMenuItem"; title = "Add Photo Library"; ObjectID = "2X6-8T-Bo3"; */
+"2X6-8T-Bo3.title" = "Voeg fotobibliotheek toe";
+
+/* Class = "NSTextFieldCell"; title = "Applications that are hidden from the Uninstaller list:"; ObjectID = "3XR-7i-ixz"; */
+"3XR-7i-ixz.title" = "Programma’s verborgen voor lijst van Verwijderaar:";
+
+/* Class = "NSMenuItem"; title = "Reset Selected Ignore List"; ObjectID = "5TB-k0-gNI"; */
+"5TB-k0-gNI.title" = "Stel geselecteerde negeerlijst opnieuw in";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "6bf-QJ-802"; */
+"6bf-QJ-802.title" = "File Name no trans";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add items"; ObjectID = "8Tz-R7-CTe"; */
+"8Tz-R7-CTe.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove items"; ObjectID = "8XP-Jx-jMK"; */
+"8XP-Jx-jMK.ibShadowedToolTip" = "Verwijder items";
+
+/* Class = "NSTextFieldCell"; title = "Trash type no trans"; ObjectID = "8tY-ol-qoq"; */
+"8tY-ol-qoq.title" = "Trash type no trans";
+
+/* Class = "NSTextFieldCell"; title = "Trash type no trans"; ObjectID = "9Hj-bU-WEo"; */
+"9Hj-bU-WEo.title" = "Trash type no trans";
+
+/* Class = "NSTabViewItem"; label = "iPhoto"; ObjectID = "9JU-Vm-z9p"; */
+"9JU-Vm-z9p.label" = "iPhoto";
+
+/* Class = "NSTextFieldCell"; title = "Photo cache groups to ignore:"; ObjectID = "9UW-Td-23a"; */
+"9UW-Td-23a.title" = "Te negeren groepen van fotocache:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AD2-iR-U05"; */
+"AD2-iR-U05.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Cxe-il-BnZ"; */
+"Cxe-il-BnZ.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "DWv-rQ-usm"; */
+"DWv-rQ-usm.title" = "File Name no trans";
+
+/* Class = "NSButtonCell"; title = "Ignore RAW photos"; ObjectID = "EK8-BL-07A"; */
+"EK8-BL-07A.title" = "Negeer RAW-foto’s";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "EPN-G6-dP6"; */
+"EPN-G6-dP6.title" = "File Name no trans";
+
+/* Class = "NSTextFieldCell"; title = "Files, folders, and file groups to ignore:"; ObjectID = "IXj-Hu-Tmd"; */
+"IXj-Hu-Tmd.title" = "Te negeren bestanden, mappen en bestandsgroepen:";
+
+/* Class = "NSTabViewItem"; label = "LAOF"; ObjectID = "L6P-zk-SDz"; */
+"L6P-zk-SDz.label" = "LAOF";
+
+/* Class = "NSButtonCell"; title = "Ignore system applications"; ObjectID = "LOm-fG-VyS"; */
+"LOm-fG-VyS.title" = "Negeer systeemapps";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "LSw-Nn-6wX"; */
+"LSw-Nn-6wX.title" = "Voeg toe";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "M0B-oP-12x"; */
+"M0B-oP-12x.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Remove from List"; ObjectID = "Mv7-oV-7O7"; */
+"Mv7-oV-7O7.title" = "Verwijder uit lijst";
+
+/* Class = "NSTextFieldCell"; title = "Volumes, photo libraries and Mail accounts to ignore:"; ObjectID = "NaH-N0-PbX"; */
+"NaH-N0-PbX.title" = "Te negeren volumes, fotobibliotheken en Mail-accounts:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NvX-oG-Sfn"; */
+"NvX-oG-Sfn.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "O86-Gi-6E4"; */
+"O86-Gi-6E4.title" = "Annuleer";
+
+/* Class = "NSMenuItem"; title = "Reveal in iPhoto"; ObjectID = "Q2g-cM-OJ7"; */
+"Q2g-cM-OJ7.title" = "Toon in iPhoto";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell no trans"; ObjectID = "Qod-uA-zgQ"; */
+"Qod-uA-zgQ.title" = "Table View Cell no trans";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "REY-ft-VwS"; */
+"REY-ft-VwS.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Attachments and downloads to ignore:"; ObjectID = "RqY-PB-Mse"; */
+"RqY-PB-Mse.title" = "Te negeren bijlagen en downloads:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add items"; ObjectID = "Sy2-3q-z0G"; */
+"Sy2-3q-z0G.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "UCX-Br-8oQ"; */
+"UCX-Br-8oQ.title" = "Toon in Finder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add items"; ObjectID = "Ud4-iF-om4"; */
+"Ud4-iF-om4.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSTextFieldCell"; title = "File type no trans"; ObjectID = "Vv4-yb-HnD"; */
+"Vv4-yb-HnD.title" = "File type no trans";
+
+/* Class = "NSTextFieldCell"; title = "Select volumes to add their Trash folders to Ignore List:"; ObjectID = "W1n-gC-mDL"; */
+"W1n-gC-mDL.title" = "Kies de volumes die je wilt toevoegen aan de negeerlijst:";
+
+/* Class = "NSTabViewItem"; label = "Uninstaller"; ObjectID = "WFz-2j-Qnf"; */
+"WFz-2j-Qnf.label" = "Verwijderaar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wc8-sA-HHk"; */
+"Wc8-sA-HHk.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Add Volume"; ObjectID = "XE1-6G-Xfl"; */
+"XE1-6G-Xfl.title" = "Voeg volume toe";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove items"; ObjectID = "Z8V-C3-siu"; */
+"Z8V-C3-siu.ibShadowedToolTip" = "Verwijder items";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "amw-Z6-dXy"; */
+"amw-Z6-dXy.title" = "File Name no trans";
+
+/* Class = "NSTextFieldCell"; title = "File type no trans"; ObjectID = "caJ-Ft-76G"; */
+"caJ-Ft-76G.title" = "File type no trans";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cqA-Nw-KrY"; */
+"cqA-Nw-KrY.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Mail"; ObjectID = "cyD-8x-Tl8"; */
+"cyD-8x-Tl8.label" = "e-mail";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Reset Ignore List to default"; ObjectID = "dFH-mQ-DTW"; */
+"dFH-mQ-DTW.ibShadowedToolTip" = "Herstel standaard negeerlijst";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add extensions"; ObjectID = "dKV-iY-QTQ"; */
+"dKV-iY-QTQ.ibShadowedToolTip" = "Voeg extensies toe";
+
+/* Class = "NSTextFieldCell"; title = "Files and applications to ignore:"; ObjectID = "dQk-iL-N05"; */
+"dQk-iL-N05.title" = "Te negeren bestanden en programma’s:";
+
+/* Class = "NSTextFieldCell"; title = "File type no trans"; ObjectID = "dWU-EN-pIy"; */
+"dWU-EN-pIy.title" = "File type no trans";
+
+/* Class = "NSTextFieldCell"; title = "All mounted volumes are already in your Ignore List."; ObjectID = "dwe-QH-y8d"; */
+"dwe-QH-y8d.title" = "Alle geactiveerde volumes staan al op de negeerlijst.";
+
+/* Class = "NSTextFieldCell"; title = "Trash Name no trans"; ObjectID = "gBi-wX-1Lk"; */
+"gBi-wX-1Lk.title" = "Trash Name no trans";
+
+/* Class = "NSTabViewItem"; label = "iTunes"; ObjectID = "i35-Pg-UWq"; */
+"i35-Pg-UWq.label" = "iTunes";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove items"; ObjectID = "iGh-Zo-b3K"; */
+"iGh-Zo-b3K.ibShadowedToolTip" = "Verwijder items";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k5r-ui-N7r"; */
+"k5r-ui-N7r.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove items"; ObjectID = "klG-6d-1r3"; */
+"klG-6d-1r3.ibShadowedToolTip" = "Verwijder items";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "lT8-8t-Pvh"; */
+"lT8-8t-Pvh.title" = "Venster";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "oYx-Ag-Hg3"; */
+"oYx-Ag-Hg3.title" = "Geef snel weer";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "q6J-Ax-XFn"; */
+"q6J-Ax-XFn.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "rJq-kh-5cs"; */
+"rJq-kh-5cs.title" = "File Name no trans";
+
+/* Class = "NSTextFieldCell"; title = "All changes take effect after a new scan."; ObjectID = "rV4-yX-MC4"; */
+"rV4-yX-MC4.title" = "Alle wijzigingen worden na een nieuwe scan toegepast.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sin-Un-5px"; */
+"sin-Un-5px.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add items"; ObjectID = "tEK-n8-Z08"; */
+"tEK-n8-Z08.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSTextFieldCell"; title = "File Name no trans"; ObjectID = "uZz-0F-SrV"; */
+"uZz-0F-SrV.title" = "File Name no trans";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add items"; ObjectID = "vpB-Bg-iAS"; */
+"vpB-Bg-iAS.ibShadowedToolTip" = "Voeg items toe";
+
+/* Class = "NSTextFieldCell"; title = "Trash Name no trans"; ObjectID = "w8E-8q-TnS"; */
+"w8E-8q-TnS.title" = "Trash Name no trans";
+
+/* Class = "NSMenuItem"; title = "Reset All Ignore Lists"; ObjectID = "wMR-Op-rFJ"; */
+"wMR-Op-rFJ.title" = "Stel alle negeerlijsten opnieuw in";
+
+/* Class = "NSTextFieldCell"; title = "View and manage items that were earlier excluded from scan results:"; ObjectID = "weS-Ra-vVi"; */
+"weS-Ra-vVi.title" = "Bekijk en beheer items die eerder zijn uitgesloten van scanresultaten:";
+
+/* Class = "NSTextFieldCell"; title = "File extensions to ignore:"; ObjectID = "yu7-u5-Skz"; */
+"yu7-u5-Skz.title" = "Te negeren bestandsextensies:";

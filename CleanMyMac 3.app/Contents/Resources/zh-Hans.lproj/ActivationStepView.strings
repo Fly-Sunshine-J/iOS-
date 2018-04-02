@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "4qY-hd-Lyn"; */
+"4qY-hd-Lyn.title" = "激活";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Activation Number"; ObjectID = "D8L-tO-CW5"; */
+"D8L-tO-CW5.placeholderString" = "激活号码";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3 Activation"; ObjectID = "YIH-td-mOn"; */
+"YIH-td-mOn.title" = "CleanMyMac 3 激活";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your Activation Number:"; ObjectID = "aOI-Hf-Vnn"; */
+"aOI-Hf-Vnn.title" = "请输入激活号码：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cS3-8M-5gk"; */
+"cS3-8M-5gk.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Lost My License"; ObjectID = "iHR-xV-aY1"; */
+"iHR-xV-aY1.title" = "我的许可证丢了";
+
+/* Class = "NSTextFieldCell"; title = "If you have already purchased CleanMyMac 3, you should find your activation number in an email confirmation."; ObjectID = "qY3-jz-jJV"; */
+"qY3-jz-jJV.title" = "如果您已购买 CleanMyMac 3，那么激活号码应该在确认电子邮件中。";

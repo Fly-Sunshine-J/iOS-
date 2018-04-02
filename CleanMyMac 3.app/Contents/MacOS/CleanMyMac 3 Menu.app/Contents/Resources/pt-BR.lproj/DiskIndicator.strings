@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Health"; ObjectID = "PtH-MX-ooK"; */
+"PtH-MX-ooK.title" = "Saúde";
+
+/* Class = "NSTextFieldCell"; title = "Disk_NOTRANS"; ObjectID = "WTP-co-Zau"; */
+"WTP-co-Zau.title" = "Disk_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Free_NOTRANS"; ObjectID = "cel-9I-u7w"; */
+"cel-9I-u7w.title" = "Free_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "totalSize_NOTRANS"; ObjectID = "ghU-ei-fV2"; */
+"ghU-ei-fV2.title" = "totalSize_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "vMP-5v-4hF"; */
+"vMP-5v-4hF.title" = "Saiba Mais";

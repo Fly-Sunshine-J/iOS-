@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Activation Info"; ObjectID = "34"; */
+"34.title" = "Об активации";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "41"; */
+"41.title" = "Имя пользователя:";
+
+/* Class = "NSTextFieldCell"; title = "Activation ID:"; ObjectID = "51"; */
+"51.title" = "ID активации:";
+
+/* Class = "NSTextFieldCell"; title = "Expiration Date:"; ObjectID = "55"; */
+"55.title" = "Срок истечения:";
+
+/* Class = "NSTextFieldCell"; title = "expiration_date"; ObjectID = "77"; */
+"77.title" = "expiration_date";
+
+/* Class = "NSTextFieldCell"; title = "serial_number"; ObjectID = "78"; */
+"78.title" = "serial_number";
+
+/* Class = "NSTextFieldCell"; title = "user_name"; ObjectID = "79"; */
+"79.title" = "user_name";
+
+/* Class = "NSButtonCell"; title = "Deactivate License"; ObjectID = "d97-6z-5Nb"; */
+"d97-6z-5Nb.title" = "Деактивировать лицензию";

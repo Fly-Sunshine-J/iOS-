@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "2Rr-MZ-BE4"; */
+"2Rr-MZ-BE4.title" = "999";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9R3-U6-5Mi"; */
+"9R3-U6-5Mi.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "HFq-re-gKu"; */
+"HFq-re-gKu.title" = "Rosnąco";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "Nuz-3u-cwR"; */
+"Nuz-3u-cwR.title" = "Nazwa";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "Sbk-es-Cmj"; */
+"Sbk-es-Cmj.ibExternalAccessibilityDescription" = "Menu skanerów";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "UI0-5X-m4F"; */
+"UI0-5X-m4F.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "eMD-mc-AQj"; */
+"eMD-mc-AQj.title" = "Rozmiaru";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "rMI-qM-paZ"; */
+"rMI-qM-paZ.title" = "Malejąco";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "sC4-L4-t6i"; */
+"sC4-L4-t6i.title" = "Sortuj wg nazwy ▾";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "vNP-xq-u6f"; */
+"vNP-xq-u6f.title" = "Wyszukaj";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "wBw-ll-FGs"; */
+"wBw-ll-FGs.title" = "Odznacz wszystko";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "zRV-GJ-bLS"; */
+"zRV-GJ-bLS.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "znE-hY-xCm"; */
+"znE-hY-xCm.title" = "Zaznaczenia";

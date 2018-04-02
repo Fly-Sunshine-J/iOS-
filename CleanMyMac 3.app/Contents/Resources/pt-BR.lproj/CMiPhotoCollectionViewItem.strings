@@ -1,0 +1,17 @@
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "10"; */
+"10.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "12"; */
+"12.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "136"; */
+"136.title" = "Adicionar à Lista Ignorar";
+
+/* Class = "NSButtonCell"; title = "Hidden Copy"; ObjectID = "152"; */
+"152.title" = "Cópia Oculta";
+
+/* Class = "NSButtonCell"; title = "Version to Keep"; ObjectID = "154"; */
+"154.title" = "Versão a Manter";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "155"; */
+"155.title" = "Visualização Rápida";

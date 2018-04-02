@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Buy License"; ObjectID = "3Y9-z8-phb"; */
+"3Y9-z8-phb.title" = "Купити ліцензію";
+
+/* Class = "NSButtonCell"; title = "Enter Activation Number…"; ObjectID = "7jf-qx-6S5"; */
+"7jf-qx-6S5.title" = "Ввести активаційний номер…";
+
+/* Class = "NSTextFieldCell"; title = "Your CleanMyMac 3 license has expired. Please purchase a new license or contact our customer support for any assistance or clarification."; ObjectID = "8mS-UI-z83"; */
+"8mS-UI-z83.title" = "Термін вашої ліцензії CleanMyMac 3 минув. Придбайте нову ліцензію, або зверніться до нашої служби підтримки, щоб отримати більше інформації.";
+
+/* Class = "NSTextFieldCell"; title = "Activation Expired"; ObjectID = "cqG-Ie-3ms"; */
+"cqG-Ie-3ms.title" = "Термін активації скінчився";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "r4d-6r-okf"; */
+"r4d-6r-okf.title" = "Скасувати";

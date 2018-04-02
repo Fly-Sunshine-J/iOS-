@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "XXX GB"; ObjectID = "Voi-Pm-WHv"; */
+"Voi-Pm-WHv.title" = "XXX GB";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Launch Activity Monitor"; ObjectID = "WVH-15-U2u"; */
+"WVH-15-U2u.ibExternalAccessibilityDescription" = "Ouvrir le Moniteur d'activité";
+
+/* Class = "NSTextFieldCell"; title = "Processor"; ObjectID = "ezR-JQ-kCI"; */
+"ezR-JQ-kCI.title" = "Processeur";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@%"; ObjectID = "kyu-9t-TmK"; */
+"kyu-9t-TmK.ibShadowedDisplayPattern" = "%{value1}@%";
+
+/* Class = "NSTextFieldCell"; title = "utilization_NOTRANS"; ObjectID = "qOV-Vr-u7a"; */
+"qOV-Vr-u7a.title" = "utilization_NOTRANS";

@@ -1,0 +1,47 @@
+/* Class = "NSTextFieldCell"; title = "subtitle_NOTRANS"; ObjectID = "5uV-Qg-EAX"; */
+"5uV-Qg-EAX.title" = "subtitle_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "It’s time to empty your Trash!"; ObjectID = "6eT-hw-PNS"; */
+"6eT-hw-PNS.title" = "È il momento di vuotare il Cestino!";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "Cds-y0-nnj"; */
+"Cds-y0-nnj.title" = "Simulated_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "JHT-5s-rhM"; */
+"JHT-5s-rhM.title" = "name_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "View in CleanMyMac"; ObjectID = "NXJ-er-JaP"; */
+"NXJ-er-JaP.title" = "Mostra in CleanMyMac";
+
+/* Class = "NSButtonCell"; title = "Empty Trash"; ObjectID = "Sq8-1F-yPX"; */
+"Sq8-1F-yPX.title" = "Vuota il Cestino";
+
+/* Class = "NSTextFieldCell"; title = "Emptying Trash"; ObjectID = "UDC-wA-XjT"; */
+"UDC-wA-XjT.title" = "Vuoto il Cestino";
+
+/* Class = "NSTabViewItem"; label = "Done"; ObjectID = "ZXP-UV-cKC"; */
+"ZXP-UV-cKC.label" = "Fine";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "bKN-rL-fTd"; */
+"bKN-rL-fTd.ibShadowedDisplayPattern" = "%{value1}@";
+
+/* Class = "NSTabViewItem"; label = "Failure"; ObjectID = "eay-Av-Wxy"; */
+"eay-Av-Wxy.label" = "Errore";
+
+/* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "gmB-24-UXQ"; */
+"gmB-24-UXQ.label" = "Progresso";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "hrw-EQ-6tB"; */
+"hrw-EQ-6tB.title" = "Ignora ▾";
+
+/* Class = "NSTextFieldCell"; title = "size_NOTRANS"; ObjectID = "kkX-Vf-KBP"; */
+"kkX-Vf-KBP.title" = "size_NOTRANS";
+
+/* Class = "NSTabViewItem"; label = "List"; ObjectID = "p6t-z6-KhP"; */
+"p6t-z6-KhP.label" = "Lista";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qJU-zJ-uZk"; */
+"qJU-zJ-uZk.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Done"; ObjectID = "yQv-lA-gag"; */
+"yQv-lA-gag.title" = "Fine";

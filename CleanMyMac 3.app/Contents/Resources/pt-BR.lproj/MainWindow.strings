@@ -1,0 +1,47 @@
+/* Class = "NSWindow"; title = "CleanMyMac"; ObjectID = "25319"; */
+"25319.title" = "CleanMyMac";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "25687"; */
+"25687.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "25755"; */
+"25755.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "25840"; */
+"25840.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "25965"; */
+"25965.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Dashboard"; ObjectID = "4JL-3n-jIJ"; */
+"4JL-3n-jIJ.title" = "Painel";
+
+/* Class = "NSButtonCell"; title = "Start Over"; ObjectID = "5qz-5C-fHz"; */
+"5qz-5C-fHz.title" = "Recomeçar";
+
+/* Class = "NSTextFieldCell"; title = "Click here at any moment to view live readings or free up RAM."; ObjectID = "9tE-Uv-LHU"; */
+"9tE-Uv-LHU.title" = "Clique aqui para ver leituras em tempo real ou liberar memória.";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3"; ObjectID = "Alz-ms-KOn"; */
+"Alz-ms-KOn.title" = "CleanMyMac 3";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "PsI-ey-bEO"; */
+"PsI-ey-bEO.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "TO_TRANS Button"; ObjectID = "TtU-XW-Hwv"; */
+"TtU-XW-Hwv.title" = "TO_TRANS Button";
+
+/* Class = "NSTextFieldCell"; title = "Check out the Dashboard!"; ObjectID = "e3n-TQ-N8D"; */
+"e3n-TQ-N8D.title" = "Dê uma olhada no Painel!";
+
+/* Class = "NSButtonCell"; title = "Unlock Full Version"; ObjectID = "fWl-Ut-Ys0"; */
+"fWl-Ut-Ys0.title" = "Ativar Versão Completa";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "qcu-c7-E0j"; */
+"qcu-c7-E0j.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "NO_TRANS title"; ObjectID = "vEU-Ay-2Pu"; */
+"vEU-Ay-2Pu.title" = "NO_TRANS title";
+
+/* Class = "NSButtonCell"; title = "Send Feedback"; ObjectID = "x6G-Gt-rvu"; */
+"x6G-Gt-rvu.title" = "Enviar Comentários";

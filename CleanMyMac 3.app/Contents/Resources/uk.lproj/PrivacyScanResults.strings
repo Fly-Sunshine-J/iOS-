@@ -1,0 +1,161 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "204"; */
+"204.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "213"; */
+"213.title" = "TitleNOTRANS";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "342"; */
+"342.headerCell.title" = "Ім'я";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "562"; */
+"562.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "585"; */
+"585.title" = "Обрати";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "691"; */
+"691.title" = "TitleNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "906"; */
+"906.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Select All Items"; ObjectID = "1194"; */
+"1194.title" = "Обрати усі";
+
+/* Class = "NSMenuItem"; title = "Quit to Estimate"; ObjectID = "1195"; */
+"1195.title" = "Завершіть для оцінки";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "1196"; */
+"1196.title" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "1199"; */
+"1199.title" = "Оновити";
+
+/* Class = "NSMenuItem"; title = "Launch Application"; ObjectID = "1202"; */
+"1202.title" = "Запустити програму";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "1629"; */
+"1629.title" = "Нуль КБ";
+
+/* Class = "NSTextFieldCell"; title = "Privacy"; ObjectID = "2383"; */
+"2383.title" = "Конфіденційність";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2385"; */
+"2385.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "2518"; */
+"2518.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "2522"; */
+"2522.title" = "Нуль КБ";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2545"; */
+"2545.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2587"; */
+"2587.title" = "Пошук";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "2589"; */
+"2589.title" = "Пошук";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "2670"; */
+"2670.title" = "За спаданням";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "2671"; */
+"2671.title" = "За зростанням";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "2673"; */
+"2673.title" = "Іменем";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "2674"; */
+"2674.title" = "Обраним";
+
+/* Class = "NSMenuItem"; title = "Count"; ObjectID = "2675"; */
+"2675.title" = "Кількістю";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "2676"; */
+"2676.title" = "Сортувати за іменем ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "2679"; */
+"2679.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "2707"; */
+"2707.title" = "Завантаження…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "4ce-Ww-RXC"; */
+"4ce-Ww-RXC.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "8in-5E-bjh"; */
+"8in-5E-bjh.title" = "Тільки цілком";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "BQ8-vl-zdm"; */
+"BQ8-vl-zdm.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSTextFieldCell"; title = "DescriptionNOTRANS"; ObjectID = "Fbe-2k-YLc"; */
+"Fbe-2k-YLc.title" = "DescriptionNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "Ila-dG-eVZ"; */
+"Ila-dG-eVZ.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "KeX-IB-ccV"; */
+"KeX-IB-ccV.title" = "Тільки цілком";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "Qkd-7q-qWY"; */
+"Qkd-7q-qWY.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSButtonCell"; title = "Quit Skype to Estimate"; ObjectID = "QoH-XH-88z"; */
+"QoH-XH-88z.title" = "Завершіть Skype для оцінки";
+
+/* Class = "NSButtonCell"; title = "Last month"; ObjectID = "Ttf-Sc-hMq"; */
+"Ttf-Sc-hMq.title" = "Минулого місяця";
+
+/* Class = "NSTextFieldCell"; title = "items"; ObjectID = "VVw-kI-F57"; */
+"VVw-kI-F57.title" = "об'єкти";
+
+/* Class = "NSTextFieldCell"; title = "Time range to clean:"; ObjectID = "XJM-2A-tty"; */
+"XJM-2A-tty.title" = "Часовий проміжок:";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "Xbo-pX-qQO"; */
+"Xbo-pX-qQO.title" = "Нуль КБ";
+
+/* Class = "NSMenuItem"; title = "Everything"; ObjectID = "Yhp-FS-Atf"; */
+"Yhp-FS-Atf.title" = "Усе";
+
+/* Class = "NSMenuItem"; title = "Last two hours"; ObjectID = "cBe-Kj-GMb"; */
+"cBe-Kj-GMb.title" = "Останні дві години";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "e6W-vU-EKx"; */
+"e6W-vU-EKx.title" = "Тільки цілком";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "ezh-XB-2PU"; */
+"ezh-XB-2PU.title" = "Нуль КБ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "fbO-TF-gzG"; */
+"fbO-TF-gzG.ibShadowedToolTip" = "Показати інформацію";
+
+/* Class = "NSMenuItem"; title = "Last 24 hours"; ObjectID = "gvB-jY-cxl"; */
+"gvB-jY-cxl.title" = "Остання доба";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "hcn-2F-RuP"; */
+"hcn-2F-RuP.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "iVI-IY-0uC"; */
+"iVI-IY-0uC.title" = "Тільки цілком";
+
+/* Class = "NSMenuItem"; title = "Last hour"; ObjectID = "ks9-Z3-t71"; */
+"ks9-Z3-t71.title" = "Остання година";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "nXX-Gq-syi"; */
+"nXX-Gq-syi.title" = "Нуль КБ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "oMV-e1-y6I"; */
+"oMV-e1-y6I.ibShadowedToolTip" = "Показати інформацію";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "p8l-7q-K3M"; */
+"p8l-7q-K3M.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "– All Time"; ObjectID = "wty-V0-26R"; */
+"wty-V0-26R.title" = "Тільки цілком";
+
+/* Class = "NSMenuItem"; title = "Last week"; ObjectID = "z5z-SO-DNB"; */
+"z5z-SO-DNB.title" = "Минулий тиждень";

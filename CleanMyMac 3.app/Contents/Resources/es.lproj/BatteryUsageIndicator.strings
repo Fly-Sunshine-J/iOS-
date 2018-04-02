@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "capacity_NOTRANS"; ObjectID = "0e9-qQ-Lqf"; */
+"0e9-qQ-Lqf.title" = "capacity_NOTRANS";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ mAh"; ObjectID = "6no-RR-tui"; */
+"6no-RR-tui.ibShadowedDisplayPattern" = "%{value1}@ mAh";
+
+/* Class = "NSTextFieldCell"; title = "state_NOTRANS"; ObjectID = "PRP-f5-z90"; */
+"PRP-f5-z90.title" = "state_NOTRANS";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Charge Cycles: %{value1}@"; ObjectID = "Zau-je-7Hq"; */
+"Zau-je-7Hq.ibShadowedDisplayPattern" = "Ciclos de carga: %{value1}@";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "jVg-bm-qPi"; */
+"jVg-bm-qPi.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Battery"; ObjectID = "ncI-Gy-8ha"; */
+"ncI-Gy-8ha.title" = "Batería";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Health: %{value1}@"; ObjectID = "uwQ-YR-BQo"; */
+"uwQ-YR-BQo.ibShadowedDisplayPattern" = "Salud: %{value1}@";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "zBi-zT-B81"; */
+"zBi-zT-B81.title" = "Label";

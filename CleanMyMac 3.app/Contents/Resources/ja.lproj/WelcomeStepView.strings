@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Buy a license to remove the 500 MB limitation and experience all the benefits of CleanMyMac 3."; ObjectID = "JUV-No-dNO"; */
+"JUV-No-dNO.title" = "ライセンスを購入して、500 MBの制限を取り除き、CleanMyMac 3 のすべての機能をお楽しみください。";
+
+/* Class = "NSTextFieldCell"; title = "CleanMyMac 3 Activation"; ObjectID = "UM1-dM-mAu"; */
+"UM1-dM-mAu.title" = "CleanMyMac 3 ライセンス";
+
+/* Class = "NSButtonCell"; title = "Buy License"; ObjectID = "ZhW-yc-ic4"; */
+"ZhW-yc-ic4.title" = "ライセンスを購入";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "fJ6-V4-ILZ"; */
+"fJ6-V4-ILZ.title" = "後で";
+
+/* Class = "NSButtonCell"; title = "Enter Activation Number..."; ObjectID = "wNp-Ex-AME"; */
+"wNp-Ex-AME.title" = "ライセンス認証番号を入力…";

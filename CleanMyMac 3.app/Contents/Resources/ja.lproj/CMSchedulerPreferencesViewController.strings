@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Features are disabled because CleanMyMac is running from a disk image."; ObjectID = "92N-c2-5Jt"; */
+"92N-c2-5Jt.title" = "CleanMyMacがディスクイメージから実行しているため、機能が無効になっています。";
+
+/* Class = "NSTextFieldCell"; title = "When launching from the Scheduler notification:"; ObjectID = "9P3-6A-pWr"; */
+"9P3-6A-pWr.title" = "スケジュール管理の通知から起動する場合：";
+
+/* Class = "NSMenuItem"; title = "Annually"; ObjectID = "GXo-zg-Imu"; */
+"GXo-zg-Imu.title" = "毎年";
+
+/* Class = "NSButtonCell"; title = "Simply launch CleanMyMac 3"; ObjectID = "Ieg-0c-P5H"; */
+"Ieg-0c-P5H.title" = "単純に CleanMyMac 3 を起動";
+
+/* Class = "NSMenuItem"; title = "Once in six months"; ObjectID = "L4a-Ix-gto"; */
+"L4a-Ix-gto.title" = "半年に 1 度";
+
+/* Class = "NSMenuItem"; title = "Once in two weeks"; ObjectID = "Sf5-Ec-zJr"; */
+"Sf5-Ec-zJr.title" = "2  週間に 1 度";
+
+/* Class = "NSButtonCell"; title = "Launch and start full scan"; ObjectID = "Vbw-TO-hUV"; */
+"Vbw-TO-hUV.title" = "起動してフルスキャンを開始";
+
+/* Class = "NSTextFieldCell"; title = "Remind me about regular cleanup:"; ObjectID = "Voe-Bl-2ZK"; */
+"Voe-Bl-2ZK.title" = "定期的クリーンアップを通知：";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "WDA-Q8-aMJ"; */
+"WDA-Q8-aMJ.title" = "毎月";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Wu3-Wu-Iah"; */
+"Wu3-Wu-Iah.title" = "ラジオ";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "byQ-iY-mzo"; */
+"byQ-iY-mzo.title" = "毎週";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "clL-as-MDo"; */
+"clL-as-MDo.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Once in three months"; ObjectID = "h9M-oF-jZc"; */
+"h9M-oF-jZc.title" = "3 ヶ月に 1 度";

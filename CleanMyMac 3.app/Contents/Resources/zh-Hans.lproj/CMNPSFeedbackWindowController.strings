@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "J0D-i9-n1X"; */
+"J0D-i9-n1X.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Would you tell us why you feel that way?"; ObjectID = "Xg5-Tb-h2O"; */
+"Xg5-Tb-h2O.title" = "愿意告诉我们为什么你这样想吗？";
+
+/* Class = "NSTextFieldCell"; title = "Thank you"; ObjectID = "dB6-in-3VG"; */
+"dB6-in-3VG.title" = "谢谢";
+
+/* Class = "NSButtonCell"; title = "Send"; ObjectID = "noS-7d-GgC"; */
+"noS-7d-GgC.title" = "发送";

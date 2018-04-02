@@ -1,0 +1,47 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "144"; */
+"144.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "164"; */
+"164.ibShadowedToolTip" = "Toon in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "168"; */
+"168.title" = "Nul KB";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "169"; */
+"169.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Remove from List"; ObjectID = "329"; */
+"329.title" = "Verwijder uit lijst";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "330"; */
+"330.title" = "Toon in Finder";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "332"; */
+"332.title" = "Snelle weergave";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "487"; */
+"487.title" = "Deselecteer alles";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "496"; */
+"496.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "577"; */
+"577.title" = "Aflopend";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "578"; */
+"578.title" = "Oplopend";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "580"; */
+"580.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "581"; */
+"581.title" = "Type";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "582"; */
+"582.title" = "Grootte";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "583"; */
+"583.title" = "Sorteer op naam ▾";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "589"; */
+"589.title" = "TitleNOTRANS";

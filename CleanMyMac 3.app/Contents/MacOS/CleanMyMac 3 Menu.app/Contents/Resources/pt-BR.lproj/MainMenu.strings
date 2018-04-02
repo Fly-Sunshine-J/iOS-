@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "7Up-Ls-dDY"; */
+"7Up-Ls-dDY.title" = "Janela";
+
+/* Class = "NSMenuItem"; title = "Reset All Warnings"; ObjectID = "C0n-5R-LZ9"; */
+"C0n-5R-LZ9.title" = "Redefinir Todos os Avisos";
+
+/* Class = "NSMenuItem"; title = "Provide Feedback"; ObjectID = "H3f-dc-PDf"; */
+"H3f-dc-PDf.title" = "Enviar Comentários";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "HvN-QE-3AY"; */
+"HvN-QE-3AY.title" = "Encerrar";
+
+/* Class = "NSTextFieldCell"; title = "Emptying Trash"; ObjectID = "PYR-sp-ZnK"; */
+"PYR-sp-ZnK.title" = "Esvaziando Lixo";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "Zoe-xF-YZc"; */
+"Zoe-xF-YZc.title" = "Sobre";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "gSV-zT-0p3"; */
+"gSV-zT-0p3.title" = "Preferências";

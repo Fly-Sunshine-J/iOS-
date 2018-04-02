@@ -1,0 +1,104 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89"; */
+"89.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "92"; */
+"92.title" = "TextNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "229"; */
+"229.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "231"; */
+"231.title" = "除外リストに追加";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "232"; */
+"232.title" = "Finder に表示";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "234"; */
+"234.title" = "クイックルック";
+
+/* Class = "NSMenuItem"; title = "Remove from Ignore List"; ObjectID = "1278"; */
+"1278.title" = "除外リストから削除";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1684"; */
+"1684.title" = "検索";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Scanners Menu"; ObjectID = "1686"; */
+"1686.ibExternalAccessibilityDescription" = "Scanners Menu";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "1687"; */
+"1687.title" = "検索";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1725"; */
+"1725.title" = "名前順で並べ替え ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1726"; */
+"1726.title" = "サイズ";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1727"; */
+"1727.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1728"; */
+"1728.title" = "名前";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1730"; */
+"1730.title" = "降順";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1731"; */
+"1731.title" = "昇順";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "1733"; */
+"1733.title" = "名前順で並べ替え ▾";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "1734"; */
+"1734.title" = "サイズ";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1735"; */
+"1735.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Last Clean"; ObjectID = "1736"; */
+"1736.title" = "前回のクリーンアップ";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "1737"; */
+"1737.title" = "名前";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "1739"; */
+"1739.title" = "降順";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "1740"; */
+"1740.title" = "昇順";
+
+/* Class = "NSTextFieldCell"; title = "Status: Indexing is in progress."; ObjectID = "0Cx-8y-Brp"; */
+"0Cx-8y-Brp.title" = "状況：索引を作成中";
+
+/* Class = "NSTextFieldCell"; title = "TextNOTRANS"; ObjectID = "6oe-3S-H2V"; */
+"6oe-3S-H2V.title" = "TextNOTRANS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Info"; ObjectID = "9MV-yE-toI"; */
+"9MV-yE-toI.ibShadowedToolTip" = "情報を表示";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "Lkr-RJ-soI"; */
+"Lkr-RJ-soI.title" = "TitleNOTRANS";
+
+/* Class = "NSButtonCell"; title = "Unlock Full Version"; ObjectID = "TY0-TZ-zxO"; */
+"TY0-TZ-zxO.title" = "完全版をロック解除";
+
+/* Class = "NSTextFieldCell"; title = "TrialPopover_Text"; ObjectID = "Xkg-vh-NjQ"; */
+"Xkg-vh-NjQ.title" = "TrialPopover_Text";
+
+/* Class = "NSTextFieldCell"; title = "Recommendations:"; ObjectID = "cSU-mo-Ogk"; */
+"cSU-mo-Ogk.title" = "お勧めのタイミング：";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "em9-ZC-X8s"; */
+"em9-ZC-X8s.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Not available in trial"; ObjectID = "ez2-D9-aB8"; */
+"ez2-D9-aB8.title" = "お試し版では利用できません";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "n3g-o4-Ywr"; */
+"n3g-o4-Ywr.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Last run date:"; ObjectID = "wjP-mY-rEG"; */
+"wjP-mY-rEG.title" = "最終実行日：";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "yzW-Yr-a8I"; */
+"yzW-Yr-a8I.title" = "TitleNOTRANS";

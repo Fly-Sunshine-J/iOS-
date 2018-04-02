@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "4jv-ow-Nho"; */
+"4jv-ow-Nho.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "8uW-mh-hgY"; */
+"8uW-mh-hgY.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CRt-iQ-Jm8"; */
+"CRt-iQ-Jm8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Deselecting an entire module will remove it from Smart Cleanup,\nbut keep it available for a separate module scan."; ObjectID = "oW6-wJ-ecv"; */
+"oW6-wJ-ecv.title" = "La deselezione di un modulo lo esclude dalla Scansione smart ma resta disponibile come modulo separato.";
+
+/* Class = "NSTextFieldCell"; title = "Specify the items you would like to include to Smart Cleanup and module scans:"; ObjectID = "wfA-Hh-MPz"; */
+"wfA-Hh-MPz.title" = "Specifica gli elementi che desideri includere nella scansione completa e nella Pulizia smart:";

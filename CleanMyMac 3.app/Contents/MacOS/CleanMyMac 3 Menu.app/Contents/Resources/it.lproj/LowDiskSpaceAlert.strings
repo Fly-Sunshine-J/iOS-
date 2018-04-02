@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "Launch CleanMyMac to locate unneeded files and reclaim free space."; ObjectID = "BUr-wQ-m5O"; */
+"BUr-wQ-m5O.title" = "Avvia CleanMyMac per ottenere le massime prestazioni e recuperare lo spazio libero.";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "NQ4-Vm-ds1"; */
+"NQ4-Vm-ds1.title" = "Ignora";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "PNd-bw-7mp"; */
+"PNd-bw-7mp.title" = "Simulated_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Launch CleanMyMac"; ObjectID = "ZjH-Ug-lh3"; */
+"ZjH-Ug-lh3.title" = "Avvia CleanMyMac";
+
+/* Class = "NSTextFieldCell"; title = "You are running out of disk space!"; ObjectID = "deO-cq-ZI4"; */
+"deO-cq-ZI4.title" = "Lo spazio su disco si sta esaurendo!";
+
+/* Class = "NSTextFieldCell"; title = "free_NOTRANS"; ObjectID = "kYw-43-gAb"; */
+"kYw-43-gAb.title" = "free_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "reK-3J-Wq2"; */
+"reK-3J-Wq2.title" = "name_NOTRANS";

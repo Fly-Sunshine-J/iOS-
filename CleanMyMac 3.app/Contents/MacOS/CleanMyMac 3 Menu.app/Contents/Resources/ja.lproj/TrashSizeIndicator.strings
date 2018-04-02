@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Used_NOTRANS"; ObjectID = "ELc-eZ-vVe"; */
+"ELc-eZ-vVe.title" = "Used_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Empty Trash"; ObjectID = "Ldw-5m-AxS"; */
+"Ldw-5m-AxS.title" = "ゴミ箱を空にする";
+
+/* Class = "NSTextFieldCell"; title = "Threshold_NOTRANS"; ObjectID = "QAx-Uw-rDg"; */
+"QAx-Uw-rDg.title" = "Threshold_NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "RBb-ap-Naa"; */
+"RBb-ap-Naa.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Trash"; ObjectID = "oR5-iG-Aed"; */
+"oR5-iG-Aed.title" = "ゴミ箱";

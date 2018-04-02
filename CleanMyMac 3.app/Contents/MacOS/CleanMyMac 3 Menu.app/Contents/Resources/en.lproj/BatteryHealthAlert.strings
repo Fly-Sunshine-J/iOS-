@@ -1,0 +1,36 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "BUr-wQ-m5O"; */
+"BUr-wQ-m5O.title" = "NOTRANS";
+
+/* Class = "NSButtonCell"; title = "Ignore ▾"; ObjectID = "NQ4-Vm-ds1"; */
+"NQ4-Vm-ds1.title" = "Ignore ▾";
+
+/* Class = "NSMenuItem"; title = "Ignore Forever"; ObjectID = "QGJ-qI-92F"; */
+"QGJ-qI-92F.title" = "Ignore Forever";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ mAh"; ObjectID = "ZdE-Z3-tY2"; */
+"ZdE-Z3-tY2.ibShadowedDisplayPattern" = "%{value1}@ mAh";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "ZjH-Ug-lh3"; */
+"ZjH-Ug-lh3.title" = "Learn More…";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "deO-cq-ZI4"; */
+"deO-cq-ZI4.title" = "NOTRANS";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Health: %{value1}@%"; ObjectID = "fNh-Lo-OMU"; */
+"fNh-Lo-OMU.ibShadowedDisplayPattern" = "Health: %{value1}@%";
+
+/* Class = "NSTextFieldCell"; title = "% NOTRANS"; ObjectID = "kYw-43-gAb"; */
+"kYw-43-gAb.title" = "% NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Battery"; ObjectID = "reK-3J-Wq2"; */
+"reK-3J-Wq2.title" = "Battery";
+
+/* Class = "NSTextFieldCell"; title = "Simulated_NOTRANS"; ObjectID = "ucf-D8-2Ai"; */
+"ucf-D8-2Ai.title" = "Simulated_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "NOTRANS"; ObjectID = "x1r-tg-7eA"; */
+"x1r-tg-7eA.title" = "NOTRANS";
+
+/* Class = "NSMenuItem"; title = "Remind in a Week"; ObjectID = "yOs-YA-Ma1"; */
+"yOs-YA-Ma1.title" = "Remind in a Week";

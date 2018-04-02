@@ -1,0 +1,161 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "71"; */
+"71.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "75"; */
+"75.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "92"; */
+"92.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "306"; */
+"306.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "329"; */
+"329.title" = "Нуль КБ";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "787"; */
+"787.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "1075"; */
+"1075.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 MB"; ObjectID = "1076"; */
+"1076.title" = "999 MB";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reveal in Finder"; ObjectID = "1094"; */
+"1094.ibShadowedToolTip" = "Показати у Finder";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "1999"; */
+"1999.title" = "Завантаження…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all related items for removal, but keeps the main binary"; ObjectID = "3257"; */
+"3257.ibShadowedToolTip" = "Обирає усі залежні файли і залишає лише виконуваний";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects all application items for complete and correct uninstallation"; ObjectID = "3258"; */
+"3258.ibShadowedToolTip" = "Обирає всі компоненти програми для повного та правильного видалення";
+
+/* Class = "NSButtonCell"; title = "Complete Uninstallation"; ObjectID = "3265"; */
+"3265.title" = "Повне видалення";
+
+/* Class = "NSButtonCell"; title = "Application Reset"; ObjectID = "3267"; */
+"3267.title" = "Скидання налаштувань";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check for all files"; ObjectID = "3520"; */
+"3520.ibShadowedToolTip" = "Обрати усі файли програми";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "3524"; */
+"3524.title" = "Обрати усі";
+
+/* Class = "NSMenuItem"; title = "Uninstall"; ObjectID = "3579"; */
+"3579.title" = "Видалити";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "3580"; */
+"3580.title" = "Обнулити";
+
+/* Class = "NSMenuItem"; title = "Keep"; ObjectID = "3581"; */
+"3581.title" = "Залишити";
+
+/* Class = "NSMenuItem"; title = "Launch"; ObjectID = "3583"; */
+"3583.title" = "Запустити";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "3584"; */
+"3584.title" = "Показати у Finder";
+
+/* Class = "NSMenuItem"; title = "Add to Ignore List"; ObjectID = "4412"; */
+"4412.title" = "Додати до переліку виключень";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selector:"; ObjectID = "4737"; */
+"4737.title" = "Чарівна обиралка:";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "5076"; */
+"5076.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "5119"; */
+"5119.title" = "Пошук";
+
+/* Class = "NSButtonCell"; title = "TitleNOTRANS"; ObjectID = "5263"; */
+"5263.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "5268"; */
+"5268.title" = "Обраним";
+
+/* Class = "NSMenuItem"; title = "Last Launch Date"; ObjectID = "5269"; */
+"5269.title" = "Датою запуску";
+
+/* Class = "NSMenuItem"; title = "Size"; ObjectID = "5270"; */
+"5270.title" = "Розміром";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "5271"; */
+"5271.title" = "За спаданням";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "5272"; */
+"5272.title" = "За зростанням";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "5274"; */
+"5274.title" = "Іменем";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5275"; */
+"5275.title" = "Типом";
+
+/* Class = "NSMenuItem"; title = "Sort by Name ▾"; ObjectID = "5276"; */
+"5276.title" = "Сортувати за іменем ▾";
+
+/* Class = "NSTextFieldCell"; title = "System Application"; ObjectID = "42r-Vz-uxj"; */
+"42r-Vz-uxj.title" = "Системна програма";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "4lF-hP-43S"; */
+"4lF-hP-43S.title" = "TitleNOTRANS";
+
+/* Class = "NSMenuItem"; title = "Lookup"; ObjectID = "79T-U8-Eha"; */
+"79T-U8-Eha.title" = "Пошук";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "8AA-pl-4PA"; */
+"8AA-pl-4PA.title" = "Усі";
+
+/* Class = "NSMenuItem"; title = "Selected"; ObjectID = "8ln-IB-vvk"; */
+"8ln-IB-vvk.title" = "Обрані";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported"; ObjectID = "DE0-RM-1ED"; */
+"DE0-RM-1ED.title" = "Застарілі";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "DgL-Yk-pgt"; */
+"DgL-Yk-pgt.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "F5x-sv-rOI"; */
+"F5x-sv-rOI.title" = "999 KB";
+
+/* Class = "NSButtonCell"; title = "all ▾"; ObjectID = "ILn-0e-VyG"; */
+"ILn-0e-VyG.title" = "усі ▾";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "LbF-Dg-6J6"; */
+"LbF-Dg-6J6.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "TitleNOTRANS"; ObjectID = "PhK-1M-FwU"; */
+"PhK-1M-FwU.title" = "TitleNOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "SjQ-DL-Gkm"; */
+"SjQ-DL-Gkm.title" = "Нуль КБ";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "TxO-7j-cAM"; */
+"TxO-7j-cAM.title" = "Показати у Finder";
+
+/* Class = "NSTextFieldCell"; title = "999 KB"; ObjectID = "WoL-Mi-YcF"; */
+"WoL-Mi-YcF.title" = "999 KB";
+
+/* Class = "NSTextFieldCell"; title = "Loading…"; ObjectID = "cpK-M8-P7n"; */
+"cpK-M8-P7n.title" = "Завантаження…";
+
+/* Class = "NSMenuItem"; title = "Rescan"; ObjectID = "fha-V7-QPS"; */
+"fha-V7-QPS.title" = "Повторний аналіз";
+
+/* Class = "NSMenu"; title = "Items Type"; ObjectID = "ogY-lg-ebR"; */
+"ogY-lg-ebR.title" = "Тип об'єктів";
+
+/* Class = "NSMenuItem"; title = "Unsupported"; ObjectID = "vl0-RB-1MJ"; */
+"vl0-RB-1MJ.title" = "Застарілі";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "xYZ-eM-Z8g"; */
+"xYZ-eM-Z8g.title" = "Обрати";

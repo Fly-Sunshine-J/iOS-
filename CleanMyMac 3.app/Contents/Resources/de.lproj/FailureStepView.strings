@@ -1,0 +1,17 @@
+/* Class = "NSButtonCell"; title = "Try Again"; ObjectID = "36q-Gu-vVU"; */
+"36q-Gu-vVU.title" = "Erneut versuchen";
+
+/* Class = "NSTextFieldCell"; title = "<Some Activation Error Description>"; ObjectID = "Peh-1v-1XC"; */
+"Peh-1v-1XC.title" = "<Some Activation Error Description>";
+
+/* Class = "NSButtonCell"; title = "Retrieve License"; ObjectID = "mjY-gM-11A"; */
+"mjY-gM-11A.title" = "Lizenz abrufen";
+
+/* Class = "NSTextFieldCell"; title = "<Activation Error>"; ObjectID = "oUe-jS-1DP"; */
+"oUe-jS-1DP.title" = "<Activation Error>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "pm3-gt-SRI"; */
+"pm3-gt-SRI.title" = "Abbrechen";
+
+/* Class = "NSButtonCell"; title = "Buy a License"; ObjectID = "zTH-GU-f7H"; */
+"zTH-GU-f7H.title" = "Lizenz kaufen";

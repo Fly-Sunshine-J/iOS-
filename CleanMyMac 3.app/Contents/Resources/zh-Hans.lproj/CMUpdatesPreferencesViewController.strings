@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Having the database in its latest state is vital for maximum cleanup efficiency and compatibility with other software products."; ObjectID = "0vN-Y8-kac"; */
+"0vN-Y8-kac.title" = "让数据库处于最新状态对于在最大程度上提高清理效率和兼容其他软件产品来说至关重要。";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "1OX-iA-kBL"; */
+"1OX-iA-kBL.title" = "更新：";
+
+/* Class = "NSButtonCell"; title = "Check For Updates"; ObjectID = "1ir-Td-05F"; */
+"1ir-Td-05F.title" = "检查更新";
+
+/* Class = "NSButtonCell"; title = "Enable background updates of CleanMyMac 3's Safety Database"; ObjectID = "6se-SK-cQG"; */
+"6se-SK-cQG.title" = "为 CleanMyMac 3 的安全数据库启用后台更新";
+
+/* Class = "NSTextFieldCell"; title = "Never"; ObjectID = "CyB-aC-cCN"; */
+"CyB-aC-cCN.title" = "从不";
+
+/* Class = "NSButtonCell"; title = "Download updates in the background"; ObjectID = "Err-hb-Uka"; */
+"Err-hb-Uka.title" = "在后台下载更新";
+
+/* Class = "NSTextFieldCell"; title = "Please be careful when updating to Beta versions as they include experimental features and can be unstable or result in data loss."; ObjectID = "cT7-G9-Hqn"; */
+"cT7-G9-Hqn.title" = "请谨慎更新到测试版本，因为它们包含实验性的功能。这些功能可能不稳定，也可能造成数据丢失。";
+
+/* Class = "NSTextFieldCell"; title = "Last check:"; ObjectID = "eTi-h9-9Aj"; */
+"eTi-h9-9Aj.title" = "上次检查时间：";
+
+/* Class = "NSButtonCell"; title = "Offer to update to Beta versions when available"; ObjectID = "rsr-ip-uDx"; */
+"rsr-ip-uDx.title" = "可用时，能更新至 Beta 版本";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "uFA-lO-jke"; */
+"uFA-lO-jke.title" = "自动检查更新";
